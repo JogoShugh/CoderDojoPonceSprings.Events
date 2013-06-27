@@ -22,26 +22,26 @@ closely fit in one of these levels:
 Each session will begin around 2:15, so you'll need to select one by then:
 
 * For **beginner level** students
-  * Workshop A: Building your own web site
+  * **Workshop A:** Build your own web site
   
   `or`
 
-  * Workshop B: Learn to program with Python
+  * **Workshop B:** Code animations and geometry with Python
 * For **intermediate level** students
-  * Workshop C: Build the classic arcade game Pong in HTML, CSS, and JavaScript
+  * **Workshop C:** Build the classic arcade game Pong in HTML, CSS, and JavaScript
   
   `or`
 
-  * Workshop D: Make battling JavaScript robots!
+  * **Workshop D:** Make battling JavaScript robots!
 * For **advanced level** students
-  * Open space and pair programming lab: show us what you've coded and tell us where you want to go!
+  * **Open space and pair programming lab:** show us what you've coded and tell us where you want to go!
 
 **Note:** *we'll likely offer these same or similar sessions on an ongoing basis at future events so 
 don't feel like you're missing out on anything. You can always try the others later or even do the 
 materials on your own or with friends!*
 
 
-Keep reading for all details.
+**Keep reading for all details.**
 
 # Full details
 
@@ -51,7 +51,7 @@ Keep reading for all details.
 
 For students of any age that are totally new or have little exposure to programming and / or web development.
 
-## Workshop A: Building your own web site
+## Workshop A: Build your own web site
 
 ### Software to install on your laptop before you attend
 
@@ -70,7 +70,7 @@ Creating your own web page with Thimble is really just the beginning of what you
 * Code Avengers 3-Level HTML adventure learning: http://www.codeavengers.com/ (You can also learn JavaScript for apps and games!)
 * HTMl5 Rocks web site with lots of tutorials: http://www.html5rocks.com/en/tutorials 
 
-## Workshop B: Learn to Program with Python
+## Workshop B: Code animations and geometry with Python
 
 ### Software to install on your laptop before you attend
 
