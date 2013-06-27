@@ -21,19 +21,19 @@ closely fit in one of these levels:
 
 Each session will begin around 2:15, so you'll need to select one by then:
 
-* For **beginner level** students
+* For **beginner level** students:
   * **Workshop A:** Build your own web site
   
   `or`
 
   * **Workshop B:** Code animations and geometry with Python
-* For **intermediate level** students
+* For **intermediate level** students:
   * **Workshop C:** Build the classic arcade game Pong in HTML, CSS, and JavaScript
   
   `or`
 
   * **Workshop D:** Make battling JavaScript robots!
-* For **advanced level** students
+* For **advanced level** students:
   * **Open space and pair programming lab:** show us what you've coded and tell us where you want to go!
 
 **Note:** *we'll likely offer these same or similar sessions on an ongoing basis at future events so 
