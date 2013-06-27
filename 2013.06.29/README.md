@@ -9,8 +9,8 @@ Here is what we'll have available on the first session. We've broken it down int
 We'll have a mixture of tutorials / workshops for the beginniner and intermediate students.
 
 And, for the advanced students, an "open space" with ample time for seeking advice and help on 
-coding challenges that they want to tackle in future sessions. We need advanced students to help 
-us and each other to set the agenda for what they want to pursue and become experts in!
+coding challenges that they want to tackle in this and future sessions. We need advanced students 
+to help us and each other to set the agenda for what they want to pursue and become experts in!
 
 Below are all the details. Only the beginner's `Python Turtle` session requires any special 
 software to download ahead of time.
@@ -103,8 +103,8 @@ For students who have been writing code for a while and may already have project
 
 ## Open space and pair programming lab
 
-In the world of technology an "open space" is a place where people show up, start talking, and then decide what to do. 
-There is no "master plan" that's fixed ahead of time. Instead, you help set the agenda!
+In the world of technology an "open space" is a place where people show up, start talking, and then decide what 
+to do. There is no "master plan" that's fixed ahead of time. Instead, you help set the agenda!
 
 And, "pair programming" simply means that two developers team up to work on some code together. They take turns writing
 code and thinking strategically about what to do next.
@@ -114,5 +114,9 @@ code and thinking strategically about what to do next.
 We'll have mentors you can talk to about your goals and what kinds of code you have already written and want to write
 now to take yourself to the next level.
 
-Perhaps we'll start coding something new and advanced just for fun, but it will depend on what everyone's goals are.
+### What you'll teach us
+
+That's right. We need you to tell us what you want to pursue, and show us what you've been learning so that we can 
+learn more and be able to help you out. Perhaps we'll start coding something new and advanced just for fun, 
+but it will depend on what everyone's goals are.
 
