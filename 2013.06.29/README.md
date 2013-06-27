@@ -8,19 +8,32 @@ that would be great.
 
 # When you arrive
 
-We'll have five separate areas, broken down for different student skill levels:
+We'll have five separate sessions, broken down for different student skill levels:
+
+* Beginner level: `you are totally new or have little exposure to programming and / or web development`
+* Intermediate level: `you have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming`
+* Advanced level: `you've already been writing code for a while and may already have projects you're working on and goals for what you want to achieve next`
+
+## Sessions
+
+Each session will begin around 2:15, so you'll need to select one by then:
 
 * For **beginner level** students
-  * Workshop A: Building your own web site, or:
+  * Workshop A: Building your own web site
+  
+  `or`
+
   * Workshop B: Learn to program with Python
 * For **intermediate level** students
-  * Workshop C: Build the classic arcade game Pong in HTML, CSS, and JavaScript, or:
+  * Workshop C: Build the classic arcade game Pong in HTML, CSS, and JavaScript
+  
+  `or`
+
   * Workshop D: Make battling JavaScript robots!
 * For **advanced level** students
   * Open space and pair programming lab: show us what you've coded and tell us where you want to go!
 
-All four workshops will start around 2:15 PM. So, you'll need to either be in one, or be in the open space 
-area for advanced level students. Read on for all details.
+Keep reading for all details.
 
 # Full details
 
