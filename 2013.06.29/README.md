@@ -90,7 +90,6 @@ Use the popular and fun Python programming language to animate a turtle and lear
 Now that you know the basics, you’re ready to become an expert. Here are some resources for going deeper:
 
 * Learn Python online through an interactive step-by-step tutorial (without any download) at http://www.learnpython.org/
-* Ready to download Python and run it directly on your computer?  You can download the full Python language for Windows, Mac, or Linux from http://www.python.org/getit/
 * Feeling like a challenge? Try http://learnpythonthehardway.org/! Just kidding, it's actually quite an easy way to learn Python, a really good way to start if you're new to programming.
 * Tons of more learning resources for Python here: http://wiki.python.org/moin/BeginnersGuide/Programmers
 * The documentation for the `turtle` module that we will be using can be found here: http://docs.python.org/3/library/turtle.html
