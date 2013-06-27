@@ -2,9 +2,9 @@
 
 Here is what we'll have available on the first session. Please read over the 
 
-# Beginner Level
+# Beginner level students
 
-For kids of any age that are totally new or have little exposure to programming and / or web development.
+For students of any age that are totally new or have little exposure to programming and / or web development.
 
 ## Tutorial / Workshop 1: Building your own web site
 
@@ -43,11 +43,11 @@ Now that you know the basics, you’re ready to become an expert. Here are some 
 * Feeling like a challenge? Try http://learnpythonthehardway.org/!
 * Tons of more learning resources for Python here: http://wiki.python.org/moin/BeginnersGuide/Programmers  
 
-# Intermediate Level
+# Intermediate level students
 
-For kids who have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming.
+For students who have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming.
 
-# Tutorial / Workshop 1: Build the classic arcade game Pong in HTML, CSS, and JavaScript
+## Tutorial / Workshop: Build the classic arcade game Pong in HTML, CSS, and JavaScript
 
 ### Software to install on your laptop before you attend
 
@@ -65,7 +65,7 @@ Pong is an arcade classic, no doubt. But, maybe you want to recreate some of the
 * Lots of resources for building HTML5 games: http://www.html5gamedevelopment.com/html5-engines 
 * Great collection of HTML5 games tutorials and tools: http://html5games.com/resources/ 
 
-## Tutorial / Workshop 2: Battling JavaScript Robots!
+## Tutorial / Workshop: Battling JavaScript Robots!
 
 ### Software to install on your laptop before you attend
 
@@ -83,3 +83,23 @@ Fighting robots are popular in other languages too, but so are real, physical ro
 * Robocode: develop robot battle tanks to fight each other: http://robocode.sourceforge.net/ (This is what FightCodeGame.com is based on)
 * Lego Mindstorms: write code to make *real* robots move and do all kinds of things: http://mindstorms.lego.com/en-us/default.aspx
 * Arduino is an open-source electronics platform intended for artists, designers, hobbyists, and anyone interested in creating interactive objects and environments: http://www.arduino.cc/ 
+
+# Advanced level students
+
+For students who have been writing code for a while and may already have projects they are working on.
+
+## Open space and pair programming lab
+
+In the world of technology an "open space" is a place where people show up, start talking, and then decide what to do. 
+There is no "master plan" that's fixed ahead of time. Instead, you help set the agenda!
+
+And, "pair programming" simply means that two developers team up to work on some code together. They take turns writing
+code and thinking strategically about what to do next.
+
+### What you'll do
+
+We'll have mentors you can talk to about your goals and what kinds of code you have already written and want to write
+now to take yourself to the next level.
+
+Perhaps we'll start coding something new and advanced just for fun, but it will depend on what everyone's goals are.
+
