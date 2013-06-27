@@ -8,11 +8,14 @@ that would be great.
 
 # When you arrive
 
-We'll have five separate sessions, broken down for different student skill levels:
+We'll have five separate sessions, broken down for different student skill levels. Figure out where you most 
+closely fit in one of these levels:
 
-* Beginner level: `you are totally new or have little exposure to programming and / or web development`
-* Intermediate level: `you have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming`
-* Advanced level: `you've already been writing code for a while and may already have projects you're working on and goals for what you want to achieve next`
+* **Beginner level**: You are totally new or have little exposure to programming and / or web development
+
+* **Intermediate level**: You have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming
+
+* **Advanced level**: You've already been writing code for a while and may already have projects you're working on and goals for what you want to achieve next
 
 ## Sessions
 
