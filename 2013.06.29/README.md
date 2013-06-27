@@ -1,6 +1,19 @@
 # CoderDojo Ponce Springs 6/29/2013 Event Outline and Resources
 
-Here is what we'll have available on the first session. Please read over the 
+Here is what we'll have available on the first session. We've broken it down into:
+
+* Beginner level students
+* Intermediate level students
+* Advanced level students
+
+We'll have a mixture of tutorials / workshops for the beginniner and intermediate students.
+
+And, for the advanced students, an "open space" with ample time for seeking advice and help on 
+coding challenges that they want to tackle in future sessions. We need advanced students to help 
+us and each other to set the agenda for what they want to pursue and become experts in!
+
+Below are all the details. Only the beginner's `Python Turtle` session requires any special 
+software to download ahead of time.
 
 # Beginner level students
 
