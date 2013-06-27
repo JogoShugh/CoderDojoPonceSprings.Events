@@ -36,6 +36,11 @@ Each session will begin around 2:15, so you'll need to select one by then:
 * For **advanced level** students
   * Open space and pair programming lab: show us what you've coded and tell us where you want to go!
 
+**Note:** *we'll likely offer these same or similar sessions on an ongoing basis at future events so 
+don't feel like you're missing out on anything. You can always try the others later or even do the 
+materials on your own or with friends!*
+
+
 Keep reading for all details.
 
 # Full details
@@ -50,7 +55,8 @@ For students of any age that are totally new or have little exposure to programm
 
 ### Software to install on your laptop before you attend
 
-No special installation required. We will use https://thimble.webmaker.org/, a free online HTML editor that lets you save and publish pages instantly to share with friends.
+No special installation required. We will use https://thimble.webmaker.org/, a free online HTML editor that 
+lets you save and publish pages instantly to share with friends.
 
 ### What you’ll learn
 
