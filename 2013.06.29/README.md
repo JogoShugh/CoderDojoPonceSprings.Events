@@ -120,7 +120,11 @@ Pong is an arcade classic, no doubt. But, maybe you want to recreate some of the
 
 ### Software to install on your laptop before you attend
 
-No installation required. We’ll be using the free site http://fightcodegame.com/. You can study the documentation here: http://fightcodegame.com/docs/ 
+No installation required. We’ll be using the free site http://fightcodegame.com/. This site requires that you have
+an account with [http://www.github.com](http://www.github.com) first. GitHub requires that you be at least 
+13-years-old, so if you're younger, make sure your parents approve or create the account for you.
+
+You can study the documentation here: http://fightcodegame.com/docs/.
 
 ### What you’ll learn
 
@@ -154,9 +158,10 @@ turns writing code and thinking strategically about what to do next.
 
 ## What you'll teach us
 
-Just to reiterate that we need you to tell us what you want to pursue, and show us what you've been learning so 
-that we can learn more and be able to help you out. Perhaps we can help you solve an issue or just start coding 
-something new and advanced just for fun. But, it will depend on your interests and goals.
+Just to reiterate that we need you to show us what you've been coding already and talk about your next goals.
+That way, we can learn about the technologies you're already using, if we need to, and then help you out! 
+Perhaps we can help you solve an issue or just start coding something new and advanced just for fun. It all depends 
+on your interests and your goals.
 
 ## Resources for going further
 
