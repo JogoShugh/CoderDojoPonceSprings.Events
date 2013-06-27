@@ -1,25 +1,36 @@
 # CoderDojo Ponce Springs 6/29/2013 Event Outline and Resources
 
-Here is what we'll have available on the first session. We've broken it down into someething for:
+# What to bring
 
-* Beginner level students
-* Intermediate level students
-* Advanced level students
+* Bring a laptop for your child. We don't have any loaner laptops this time.
+* We'll have softdrinks and water and a some snacks, but if you'd like to bring some other snacks to share, 
+that would be great.
 
-We'll have a mixture of tutorials / workshops for the beginniner and intermediate students.
+# When you arrive
 
-And, for the advanced students, an "open space" with ample time for seeking advice and help on 
-coding challenges that they want to tackle in this and future sessions. We need advanced students 
-to help us and each other to set the agenda for what they want to pursue and become experts in!
+We'll have five separate areas, broken down for different student skill levels:
 
-Below are all the details. Only the beginner's `Python Turtle` session requires any special 
-software to download ahead of time.
+* For **beginner level** students
+  * Workshop A: Building your own web site, or:
+  * Workshop B: Learn to program with Python
+* For **intermediate level** students
+  * Workshop C: Build the classic arcade game Pong in HTML, CSS, and JavaScript, or:
+  * Workshop D: Make battling JavaScript robots!
+* For **advanced level** students
+  * Open space and pair programming lab: show us what you've coded and tell us where you want to go!
 
-# Beginner level students
+All four workshops will start around 2:15 PM. So, you'll need to either be in one, or be in the open space 
+area for advanced level students. Read on for all details.
+
+# Full details
+
+**Note:** Only the beginner's `Python Turtle` session requires any special software to download ahead of time.
+
+# Beginner level workshops
 
 For students of any age that are totally new or have little exposure to programming and / or web development.
 
-## Tutorial / Workshop 1: Building your own web site
+## Workshop A: Building your own web site
 
 ### Software to install on your laptop before you attend
 
@@ -37,7 +48,7 @@ Creating your own web page with Thimble is really just the beginning of what you
 * Code Avengers 3-Level HTML adventure learning: http://www.codeavengers.com/ (You can also learn JavaScript for apps and games!)
 * HTMl5 Rocks web site with lots of tutorials: http://www.html5rocks.com/en/tutorials 
 
-## Tutorial / Workshop 2: Learn to Program with Python
+## Workshop B: Learn to Program with Python
 
 ### Software to install on your laptop before you attend
 
@@ -56,11 +67,11 @@ Now that you know the basics, you’re ready to become an expert. Here are some 
 * Feeling like a challenge? Try http://learnpythonthehardway.org/!
 * Tons of more learning resources for Python here: http://wiki.python.org/moin/BeginnersGuide/Programmers  
 
-# Intermediate level students
+# Intermediate level workshops
 
 For students who have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming.
 
-## Tutorial / Workshop: Build the classic arcade game Pong in HTML, CSS, and JavaScript
+## Workshop C: Build the classic arcade game Pong in HTML, CSS, and JavaScript
 
 ### Software to install on your laptop before you attend
 
@@ -78,7 +89,7 @@ Pong is an arcade classic, no doubt. But, maybe you want to recreate some of the
 * Lots of resources for building HTML5 games: http://www.html5gamedevelopment.com/html5-engines 
 * Great collection of HTML5 games tutorials and tools: http://html5games.com/resources/ 
 
-## Tutorial / Workshop: Battling JavaScript Robots!
+## Workshop D: Make battling JavaScript robots!
 
 ### Software to install on your laptop before you attend
 
@@ -97,26 +108,25 @@ Fighting robots are popular in other languages too, but so are real, physical ro
 * Lego Mindstorms: write code to make *real* robots move and do all kinds of things: http://mindstorms.lego.com/en-us/default.aspx
 * Arduino is an open-source electronics platform intended for artists, designers, hobbyists, and anyone interested in creating interactive objects and environments: http://www.arduino.cc/ 
 
-# Advanced level students
+# Advanced level open space and pair programming lab
 
 For students who have been writing code for a while and may already have projects they are working on.
 
-## Open space and pair programming lab
+# How it will work
 
 In the world of technology an "open space" is a place where people show up, start talking, and then decide what 
 to do. There is no "master plan" that's fixed ahead of time. Instead, you help set the agenda!
 
-And, "pair programming" simply means that two developers team up to work on some code together. They take turns writing
-code and thinking strategically about what to do next.
+You'll get to seek advice from your peers and mentors on coding challenges that you'd like to tackle in this 
+and future sessions. We need you to help us and each other to set the agenda for what you want to pursue and 
+become experts in!
 
-### What you'll do
-
-We'll have mentors you can talk to about your goals and what kinds of code you have already written and want to write
-now to take yourself to the next level.
+And, "pair programming" simply means that two developers team up to work on some code together. They take 
+turns writing code and thinking strategically about what to do next.
 
 ### What you'll teach us
 
-That's right. We need you to tell us what you want to pursue, and show us what you've been learning so that we can 
-learn more and be able to help you out. Perhaps we'll start coding something new and advanced just for fun, 
-but it will depend on what everyone's goals are.
+Just to reiterate that we need you to tell us what you want to pursue, and show us what you've been learning so 
+that we can learn more and be able to help you out. Perhaps we can help you solve an issue or just start coding 
+something new and advanced just for fun. But, it will depend on your interests and goals.
 
