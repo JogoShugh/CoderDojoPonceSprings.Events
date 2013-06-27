@@ -132,7 +132,8 @@ Fighting robots are popular in other languages too, but so are real, physical ro
 
 # Advanced level open space and pair programming lab
 
-For students who have been writing code for a while and may already have projects they are working on.
+For students who have been writing code for a while and may already have projects they are working on and goals for 
+problems they are trying to solve or what they want to learn next.
 
 ## How it will work
 
