@@ -1,6 +1,6 @@
 # CoderDojo Ponce Springs 6/29/2013 Event Outline and Resources
 
-Here is what we'll have available on the first session. We've broken it down into:
+Here is what we'll have available on the first session. We've broken it down into someething for:
 
 * Beginner level students
 * Intermediate level students
