@@ -164,6 +164,6 @@ on these:
 * Channel9 is Microsoft's social site for developers with lots of resources, videos, competitions: 
 [http://channel9.msdn.com/](http://channel9.msdn.com/)
 * Khan Academy Computer Science site with lots of videos and instructional materials, tutorials: [https://www.khanacademy.org/cs]
-* (https://www.khanacademy.org/cs)
+(https://www.khanacademy.org/cs)
 
 What resources do you know of? Share them with us and the rest of the dojo!
