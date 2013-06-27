@@ -128,7 +128,7 @@ Fighting robots are popular in other languages too, but so are real, physical ro
 
 For students who have been writing code for a while and may already have projects they are working on.
 
-# How it will work
+## How it will work
 
 In the world of technology an "open space" is a place where people show up, start talking, and then decide what 
 to do. There is no "master plan" that's fixed ahead of time. Instead, you help set the agenda!
@@ -140,7 +140,7 @@ become experts in!
 And, "pair programming" simply means that two developers team up to work on some code together. They take 
 turns writing code and thinking strategically about what to do next.
 
-### What you'll teach us
+## What you'll teach us
 
 Just to reiterate that we need you to tell us what you want to pursue, and show us what you've been learning so 
 that we can learn more and be able to help you out. Perhaps we can help you solve an issue or just start coding 
