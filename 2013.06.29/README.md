@@ -153,3 +153,17 @@ Just to reiterate that we need you to tell us what you want to pursue, and show 
 that we can learn more and be able to help you out. Perhaps we can help you solve an issue or just start coding 
 something new and advanced just for fun. But, it will depend on your interests and goals.
 
+## Resources for going further
+
+The number of web sites and training materials are almost endless for advanced programming. See what you can find
+on these:
+
+* GitHub is a home for your code, and a place to help other people code: [http://www.github.com](http://www.github.com)
+* Google Developers site has tons of info and downloads for writing code with Google's many tools and APIs:
+[https://developers.google.com/](https://developers.google.com/)
+* Channel9 is Microsoft's social site for developers with lots of resources, videos, competitions: 
+[http://channel9.msdn.com/](http://channel9.msdn.com/)
+* Khan Academy Computer Science site with lots of videos and instructional materials, tutorials: [https://www.khanacademy.org/cs]
+* (https://www.khanacademy.org/cs)
+
+What resources do you know of? Share them with us and the rest of the dojo!
