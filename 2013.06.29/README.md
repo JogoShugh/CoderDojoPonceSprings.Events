@@ -2,8 +2,8 @@
 
 # What to bring
 
-* Bring a laptop for your child. We don't have any loaner laptops this time.
-* We'll have softdrinks and water and a some snacks, but if you'd like to bring some other snacks to share, 
+* Parents: bring a laptop for your child. We don't have any loaner laptops this time.
+* We'll have soft drinks and water and a some snacks, but if you'd like to bring some other snacks to share, 
 that would be great.
 
 # When you arrive
