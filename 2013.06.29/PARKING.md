@@ -6,7 +6,7 @@ With so many people signed up, parking may become an issue.
 and North Avenue, near Ponce City Market (gigantic old City Hall East / Sears building) and directly across the
 street from Dancing Goats Coffee. 
 * We're adjacent to the Gecko Sushi restaurant
-* Visitor parking in the Ponce Springs Lofts parking deck can be limited!
+* **Visitor parking in the Ponce Springs Lofts parking deck can be limited!**
 * Alternatively, you may be able to find a spot just up North Avenue toward Kennesaw Avenue. 
 * There is a small parking lot at the intersection of Kennesaw and North Avenue for a professional building that is
 usually empty in the evenings and weekends. 
