@@ -1,5 +1,9 @@
 # CoderDojo Ponce Springs 6/29/2013 Event Outline and Resources
 
+# Parking
+
+See [PARKING.md](PARKING.md) for info on where to park!
+
 # What to bring
 
 * Parents: bring a laptop for your child. We don't have any loaner laptops this time.
