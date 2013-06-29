@@ -59,4 +59,125 @@ Now we picked a thicker "marker" to draw with, we also made the marker a little 
 
 * What do you think the line thikness starts out as?
 
+Let's draw some stuff now.
 
+        forward(50)
+
+Hey, we have a line!  We can't just keep doing in straight line, we need to turn our turtle:
+
+        right(90)
+        
+Our turtle turned to the right, but why 90?  We need to tell our turtle how much to turn by.  To do that we divide the circle
+into 360 even slices.  Now we can tell the turtle exactly how much to turn.
+
+        fd(200)
+
+We got another line, but this time we're lazy, so we won't type out `forward`, we can just say `fd`.
+
+        left(90)
+        fd(50)
+        left(90)
+        color('green')
+        fd(100)
+        color('white')
+        fd(100)
+        width(10)
+        go(100)
+        left(90)
+        width(1)
+        go(100)
+        width(50)
+        go(100)
+
+# Lesson 2
+
+        reset()
+        color('red')
+        fd(50)
+        right(90)
+        hideturtle()
+        fd(100)
+        showturtle()
+        right(90)
+        penup()
+        fd(100)
+        right(90)
+        pendown()
+        fd(50)
+        
+        clear()
+        fd(100)
+
+# Lesson 3
+
+        reset()
+        from turtle import *
+        pendown()
+        bgcolor('black')
+        width(3)
+        
+        color('red')
+        for i in range(3):
+            fd(100)
+            right(360/3)
+        
+        color('white')
+        for i in range(4):
+            fd(100)
+            right(360/4)
+        
+        color('blue')
+        for i in range(5):
+            fd(100)
+            right(360/5)
+        
+        left(90)
+        for i in range(40):
+            width(i)
+            fd(4)
+        
+        color('red')
+        width(3)
+        for i in range(36):
+            fd(10)
+            right(10)
+
+# Lesson 4
+
+        reset()
+        
+        for i in range(36):
+            for j in range(36):
+                fd(10)
+                right(10)
+            right(10)
+            
+        clear()
+        
+        def polygon(n):
+        for i in range(n):
+            fd(50)
+            right(360.0/n)
+        
+        polygon(5)
+        
+        for i in range(3,10):
+            polygon(i)
+        
+        clear()
+        for i in range(3,15):
+            polygon(i)
+            right(30)
+        
+        clear()
+        
+        def circle():
+            for i in range(36):
+                fd(10)
+                right(10)
+        
+        color_list=['red', 'green', 'blue', 'purple', 'orange', 'yellow']
+        for item in color_list:
+            color(item)
+            circle()
+            right(60)
