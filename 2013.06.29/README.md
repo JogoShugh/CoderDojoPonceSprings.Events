@@ -81,7 +81,7 @@ Creating your own web page with Thimble is really just the beginning of what you
 For this workshop you will need Python installed on your computer.  We will be using the latest version of Python, which is 3.3.2.  However, if you already happened to have an older version of Python installed on your computer, it will work just fine.
 
 * **Windows**
-  * Download and install Python for Windows at http://www.python.org/ftp/python/3.3.2/python-3.3.2.msi
+  * Download and install Python for Windows at http://www.python.org/ftp/python/2.7.5/python-2.7.5.msi
 * **Mac**
   * If you have a Mac, it already has Python pre-installed.  Just download and install the IDLE development environment from here: http://www.python.org/getit/mac/tcltk/.  You will need to choose the "Recommended" download for your OSX version.
 
