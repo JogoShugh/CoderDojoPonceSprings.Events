@@ -66,6 +66,10 @@ lets you save and publish pages instantly to share with friends.
 
 Learn how to use Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), JavaScript, and graphics to build your own web sites.
 
+### Starting URL
+
+http://goo.gl/wNf8i
+
 ### Resources for going further after this tutorial
 
 Creating your own web page with Thimble is really just the beginning of what you can do on the web! Try these out:
@@ -111,6 +115,10 @@ No installation required. We’ll be using the free http://www.codepen.io, which
 ### What you’ll learn
 
 Learn how to use HTML, CSS, and JavaScript to create the classic arcade game Pong. You’ll learn about animation, using object-orientation in JavaScript, and gaming concepts like collision detection.
+
+### Starting URL:
+
+http://goo.gl/kjX3Z
 
 ### Resources for going further after this tutorial
 
