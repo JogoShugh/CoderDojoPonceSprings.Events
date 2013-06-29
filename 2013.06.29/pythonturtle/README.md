@@ -20,7 +20,7 @@ so let's check to see if it's already on your computer.
 If you don't have **Python** on your computer.
 * go to www.python.org
 * click on `DOWNLOAD`
-* click on `Python 3.3.2 Windows x86 MSI Installer`
+* click on `Python 2.7.5 Windows x86 MSI Installer`
 * once the file downloads, click on it
 * keep clicking **Next** in the installer until the installation starts
 * click **Yes** to allow **Python** to install
