@@ -1,8 +1,11 @@
 # Parking for CoderDojo Ponce Springs at Ponce Springs Lofts
 
-With so many people signed up and a local festival taking, parking will be an issue. You may have to park on 
-the side streets if all the parking spaces in the parking deck are full. If even those are full, you could try the 
-Whole Foods lot across from Ponce City Market on Ponce (near Starbucks Coffee).
+With so many people signed up and a local festival taking, parking will be an issue.
+
+**Important Note:** You can park in the rear section of the Ponce City Market covered deck, behind Dancing Goats! Thanks to Dancing Goat's manager Hillary
+for being accommodating to us. Please thank them with a coffee purchase and a thank you!
+
+Look for a CoderDojo volunteer in a white T-shirt directing you to the parking.
 
 * We're in the bottom floor of the Ponce Springs building at 620 Glen Iris Drive, at the corner of Glen Iris 
 and North Avenue, near Ponce City Market (gigantic old City Hall East / Sears building) and directly across the
