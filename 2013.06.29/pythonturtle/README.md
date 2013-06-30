@@ -83,12 +83,12 @@ some stuff.
         color('white')
         fd(100)
         width(10)
-        go(100)
+        fd(100)
         left(90)
         width(1)
-        go(100)
+        fd(100)
         width(50)
-        go(100)
+        fd(100)
         
 Cool, we drew some lines, let's see what else the turtle can do.
 
