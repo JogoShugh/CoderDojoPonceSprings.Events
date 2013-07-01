@@ -70,6 +70,8 @@ Learn how to use Hypertext Markup Language (HTML), Cascading Style Sheets (CSS),
 
 http://goo.gl/wNf8i
 
+**New version!**: http://embed.plnkr.co/WI16H7Rsa5adejXSmyNj/preview (This is where I'm improving the tool)
+
 ### Resources for going further after this tutorial
 
 Creating your own web page with Thimble is really just the beginning of what you can do on the web! Try these out:
@@ -119,8 +121,6 @@ Learn how to use HTML, CSS, and JavaScript to create the classic arcade game Pon
 ### Starting URL:
 
 http://goo.gl/kjX3Z
-
-**New version!**: http://embed.plnkr.co/WI16H7Rsa5adejXSmyNj/preview (This is where I'm improving the tool)
 
 ### Resources for going further after this tutorial
 
