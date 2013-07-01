@@ -120,6 +120,8 @@ Learn how to use HTML, CSS, and JavaScript to create the classic arcade game Pon
 
 http://goo.gl/kjX3Z
 
+**New version!**: http://embed.plnkr.co/WI16H7Rsa5adejXSmyNj/preview (This is where I'm improving the tool)
+
 ### Resources for going further after this tutorial
 
 Pong is an arcade classic, no doubt. But, maybe you want to recreate some of the other classic games? Or, do you want to learn more about animation, 3D, etc? Try some of these:
