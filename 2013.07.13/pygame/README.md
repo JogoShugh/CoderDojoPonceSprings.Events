@@ -41,9 +41,8 @@ IDE stands for "Integrated Development Environment", it makes it easier and fast
 for programmers to develop software.  We will be using an excellent free Python IDE for 
 Windows called **PyScripter**.  Let's download and install it:
 
-* go to https://code.google.com/p/pyscripter/
-* click on `PyScripter-v2.5.3-Setup.exe` this will open the download page
-* click on `PyScripter-v2.5.3-Setup.exe` again to start download
+* go to https://code.google.com/p/pyscripter/downloads/detail?name=PyScripter-v2.5.3-Setup.exe
+* click on `PyScripter-v2.5.3-Setup.exe` to start download
 * once the file downloads, click on it
 * Keep clicking *Next*, then *Install*, *PyScripter* will install
 * Click *Next*, then *Finish* to exit the installer and to start *PyScripter*
