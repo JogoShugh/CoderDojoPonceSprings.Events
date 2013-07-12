@@ -51,7 +51,7 @@ materials on your own or with friends!*
 
 # Full details
 
-**Note:** Only the beginner's `Python Turtle` session requires any special software to download ahead of time.
+**Note:** Only the beginner's `Python Game` session requires any special software to download ahead of time.
 
 # Beginner level workshops
 
@@ -83,6 +83,8 @@ Creating your own web page with Thimble is really just the beginning of what you
 * HTMl5 Rocks web site with lots of tutorials: http://www.html5rocks.com/en/tutorials 
 
 ## Workshop B: Build a simple game with Python.
+
+You can find the complete instructions and lesson plan [here](pygame/README.md).
 
 ### Software to install on your laptop before you attend
 
