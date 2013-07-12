@@ -1,6 +1,6 @@
 # Parking for CoderDojo Ponce Springs at Ponce Springs Lofts
 
-## Findiing Us
+## Finding Us
 * We're in the bottom floor of the Ponce Springs building at 620 Glen Iris Drive, at the corner of Glen Iris 
 and North Avenue, near Ponce City Market (gigantic old City Hall East / Sears building) and directly across the
 street from Dancing Goats Coffee. 
