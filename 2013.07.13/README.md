@@ -6,6 +6,19 @@
 
 See [PARKING.md](PARKING.md) for info on where to park!
 
+# Students, We Welcome Your Questions and Ideas
+
+* Are you interested in learning something that we don't yet have a workshop about?
+* Or, have you been building something on your own or with friends that you'd like some help with?
+* Or, are you mostly interested in subjects that you're not sure how coding might fit in with?
+
+We're here to help you learn what is interesting to you. You can always ask a mentor about things that interest you,
+or about questions you have.
+
+We even have a special Open Questions area where you can come to ask questions that might be totally different 
+from what is happening in the workshop areas. Or you can come there with your laptop and just work on whatever you 
+want to and get help from mentors or other students.
+
 # What to bring
 
 * Parents: bring a laptop for your child. We don't have any loaner laptops this time.
@@ -19,9 +32,12 @@ closely fit in one of these levels:
 
 * **Beginner level**: You are totally new or have little exposure to programming and / or web development
 
-* **Intermediate level**: You have some experience with coding, but want to dig into concepts like game development, object-oriented programming, events, and web programming
+* **Intermediate level**: You have some experience with coding, but want to dig into concepts like game development, 
+object-oriented programming, events, and web programming
 
-* **Advanced level**: You've already been writing code for a while and may already have projects you're working on and goals for what you want to achieve next
+* **Open Questions area**: You want to learn something that we don't currently have a workshop for, and 
+would like some advice on how to get started. Or, you've been writing code for a while and may already have 
+projects you're working on, and would like to find other students to work with, or get advice from a mentor
 
 ## Sessions
 
@@ -33,14 +49,17 @@ Each session will begin around 2:15, so you'll need to select one by then:
   `or`
 
   * **Workshop B:** Build a simple game with Python
+
 * For **intermediate level** students:
   * **Workshop C:** Build the classic arcade game Pong in HTML, CSS, and JavaScript
   
   `or`
 
   * **Workshop D:** Make battling JavaScript robots!
-* For **advanced level** students:
-  * **Open space and pair programming lab:** show us what you've coded and tell us where you want to go!
+
+* For students with other questions, or who are at an **advanced level**
+  * **Open questions area**  Ask questions related to your own projects or ask how you can get started on 
+something that interests you, but is different from the other workshops
 
 **Note:** *we'll likely offer these same or similar sessions on an ongoing basis at future events so 
 don't feel like you're missing out on anything. You can always try the others later or even do the 
