@@ -32,7 +32,7 @@ Each session will begin around 2:15, so you'll need to select one by then:
   
   `or`
 
-  * **Workshop B:** Code animations and geometry with Python
+  * **Workshop B:** Build a simple game with Python
 * For **intermediate level** students:
   * **Workshop C:** Build the classic arcade game Pong in HTML, CSS, and JavaScript
   
@@ -82,7 +82,7 @@ Creating your own web page with Thimble is really just the beginning of what you
 * Code Avengers 3-Level HTML adventure learning: http://www.codeavengers.com/ (You can also learn JavaScript for apps and games!)
 * HTMl5 Rocks web site with lots of tutorials: http://www.html5rocks.com/en/tutorials 
 
-## Workshop B: Code animations and geometry with Python
+## Workshop B: Build a simple game with Python.
 
 ### Software to install on your laptop before you attend
 
@@ -90,12 +90,16 @@ For this workshop you will need Python installed on your computer.  We will be u
 
 * **Windows**
   * Download and install Python for Windows at http://www.python.org/ftp/python/2.7.5/python-2.7.5.msi
+  * Download and install PyScripter at https://code.google.com/p/pyscripter/downloads/detail?name=PyScripter-v2.5.3-Setup.exe
+  * Download and install the `pygame` library at http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi
+
 * **Mac**
-  * If you have a Mac, it already has Python pre-installed.  Just download and install the IDLE development environment from here: http://www.python.org/getit/mac/tcltk/.  You will need to choose the "Recommended" download for your OSX version.
+  * If you have a Mac, it already has Python pre-installed.
+  * Download and install the `pygame` library for your version of Mac OSX here: http://www.pygame.org/download.shtml
 
 ### What you’ll learn
 
-Use the popular and fun Python programming language to animate a turtle and learn key programming and Python concepts like for loops, ranges, and defining functions to create reusable code libraries to share with friends.
+Use the popular and fun Python programming language to create a simple game.
 
 ### Resources for going further after this tutorial
 
@@ -104,7 +108,7 @@ Now that you know the basics, you’re ready to become an expert. Here are some 
 * Learn Python online through an interactive step-by-step tutorial (without any download) at http://www.learnpython.org/
 * Feeling like a challenge? Try http://learnpythonthehardway.org/! Just kidding, it's actually quite an easy way to learn Python, a really good way to start if you're new to programming.
 * Tons of more learning resources for Python here: http://wiki.python.org/moin/BeginnersGuide/Programmers
-* The documentation for the `turtle` module that we will be using can be found here: http://docs.python.org/3/library/turtle.html
+* The docummentatition and tutorials for the `pygame` library can be found here: http://www.pygame.org/docs/, there are also tons of pygame games available for download.
 
 # Intermediate level workshops
 
