@@ -145,7 +145,7 @@ give you feedback on your site.
 
 ### Starting URL
 
-TODO
+http://jsbin.com/epahim/latest
 
 ### Resources for going further after this tutorial
 
