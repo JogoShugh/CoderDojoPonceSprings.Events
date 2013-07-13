@@ -13,11 +13,11 @@ of the gated entrance for the condo community. The first two floors have visitor
 
 ## Parking Alternatives
 
-* Alternatively, you may be able to find a spot at the credit union 
-just up the hill on North Avenue toward Kennesaw Avenue on the right side 
+* Alternatively, you may be able to find a spot at the Pinnacle Credit Union 
+just up the hill at 536 North Avenue toward Kennesaw Avenue on the right side 
 (towards downtown; opposite direction of Ponce City Market & Dancing Goats Coffee)
- * The credit union is closed on Saturday and the parking lot is usually empty. 
-I don't know if this officially approved, however
+ * The credit union is closed on Saturday and the parking lot usually has about 40 empty spaces -- I don't know if 
+this officially approved, but others have parked there before with no problem
 * There are other side streets off of Glen Iris and North Avenue that you can try also
 * **I don't advise you to park in Dancing Goats lot**, as it is private. The security for Ponce Springs Market is 
 very strict about this, and we do not have official approval for visitors to park there.
