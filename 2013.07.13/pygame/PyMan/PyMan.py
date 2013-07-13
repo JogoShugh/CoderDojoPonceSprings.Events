@@ -8,8 +8,7 @@ if not pygame.font: print 'Warning, fonts disabled'
 if not pygame.mixer: print 'Warning, sound disabled'
 
 def load_image(name, colorkey=None):
-    fullname = os.path.join('data', 'images')
-    fullname = os.path.join(fullname, name)
+    fullname = os.path.join('data', 'images', name)
     try:
         image = pygame.image.load(fullname)
     except pygame.error, message:
@@ -51,7 +50,7 @@ class PyManMain:
         self.background = self.background.convert()
         self.background.fill((0,0,0))
 
-        while 1:
+        while True:
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     sys.exit()
@@ -124,7 +123,6 @@ class Snake(pygame.sprite.Sprite):
             yMove = -self.y_dist
         elif (key == K_DOWN):
             yMove = self.y_dist
-        #self.rect = self.rect.move(xMove,yMove);
         self.rect.move_ip(xMove,yMove);
 
 class Pellet(pygame.sprite.Sprite):
