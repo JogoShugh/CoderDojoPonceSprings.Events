@@ -13,8 +13,8 @@ of the gated entrance for the condo community. The first two floors have visitor
 
 ## Parking Alternatives
 
-* Alternatively, you may be able to find a spot at the Pinnacle Credit Union 
-just up the hill at 536 North Avenue toward Kennesaw Avenue on the right side 
+* Alternatively, you may be able to find a spot at the **Pinnacle Credit Union 
+just up the hill at 536 North Avenue** toward Kennesaw Avenue on the right side 
 (towards downtown; opposite direction of Ponce City Market & Dancing Goats Coffee)
  * The credit union is closed on Saturday and the parking lot usually has about 40 empty spaces -- I don't know if 
 this officially approved, but others have parked there before with no problem
