@@ -10,7 +10,7 @@ to see what it's like.
 I hope all of you got a chance to go through http://learnpythonthehardway.org/ that I recommended last time.
 If you haven't or you're new, it's OK, you should be able to keep up as well.
 
-# Setup
+# Setup Environment
 
 To use **Python** we need to put it on your computer first.  You should have it installed already, 
 so let's check to see if it's already on your computer.
@@ -46,4 +46,13 @@ Windows called **PyScripter**.  Let's download and install it:
 * once the file downloads, click on it
 * Keep clicking *Next*, then *Install*, *PyScripter* will install
 * Click *Next*, then *Finish* to exit the installer and to start *PyScripter*
+
+# Setup for Game Development
+
+* get all the files from the `PyMan` directory in this repository
+* create a directory called `PyMan` in a known location
+* in the `PyMan` directory, create a directory called `data`
+* in the data directory, create a directory called `images`
+* copy `pellet.png` and `snake.png` into the `images` directory
+
 
