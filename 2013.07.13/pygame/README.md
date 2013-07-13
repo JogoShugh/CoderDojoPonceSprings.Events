@@ -47,12 +47,10 @@ Windows called **PyScripter**.  Let's download and install it:
 * Keep clicking *Next*, then *Install*, *PyScripter* will install
 * Click *Next*, then *Finish* to exit the installer and to start *PyScripter*
 
-# Setup for Game Development
+# Setup for the Game Development
 
-* get all the files from the `PyMan` directory in this repository
-* create a directory called `PyMan` in a known location
+* create a directory called `PyMan`
 * in the `PyMan` directory, create a directory called `data`
 * in the data directory, create a directory called `images`
-* copy `pellet.png` and `snake.png` into the `images` directory
-
-
+* copy [pellet.png](PyMan/data/images/pellet.png) and [snake.png](PyMan/data/images/snake.png) to the `images` directory
+* 
