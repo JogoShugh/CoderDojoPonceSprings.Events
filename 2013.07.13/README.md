@@ -2,12 +2,12 @@
 
 # Key Times
 
-1:00 PM: Volunteers begin setting up
-1:45 PM: Doors open, parents and students: please sign in at the sign in table
-2:15 PM: Getting started -- Workshop leaders will describe the workshops, and students will pick and get settled in
-4:30 PM: Sessions wind up -- Workshop leaders seek feedback from the students on what they thought of the session, 
-and talk about what they want to try next time
-5:00 PM: Volunters begin shutting down
+* 1:00 PM: Volunteers begin setting up
+* 1:45 PM: Doors open, parents and students: please sign in at the sign in table
+* 2:15 PM: Getting started -- Workshop leaders will describe the workshops, and students will pick and get settled in
+* 4:30 PM: Sessions wind up -- Workshop leaders seek feedback from the students about the session and ask them 
+what they want to try next time
+* 5:00 PM: Volunters begin shutting down
 
 # Info For Parents:
 
