@@ -9,7 +9,7 @@
 what they want to try next time
 * 5:00 PM: Volunters begin shutting down
 
-# Info For Parents:
+# Info for Parents
 
 ## Getting here and parking
 
