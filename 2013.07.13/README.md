@@ -1,19 +1,15 @@
 # CoderDojo Ponce Springs 7/13/2013 Event Outline and Resources
 
-# Message to Students:
+# Key Times
 
-Remember that the dojo is partly a classroom, but mostly a **playground**. Ultimately, you get to decide what 
-programming languages, tools, and ideas you want to play with. And, all of us: mentors, other students, and parents
-are here to help you learn and have fun.
+1:00 PM: Volunteers begin setting up
+1:45 PM: Doors open, parents and students: please sign in at the sign in table
+2:15 PM: Getting started -- Workshop leaders will describe the workshops, and students will pick and get settled in
+4:30 PM: Sessions wind up -- Workshop leaders seek feedback from the students on what they thought of the session, 
+and talk about what they want to try next time
+5:00 PM: Volunters begin shutting down
 
-We're here to help you learn what is interesting to you. You can always ask a mentor about things that interest you,
-or about questions you have.
-
-We even have a special **Any Question Any Time** area where you can come to ask questions that might be 
-totally different from what is happening in the workshop areas. Or you can come there with your laptop and 
-just work on whatever you want to and get help from mentors or other students.
-
-# For Parents:
+# Info For Parents:
 
 ## Getting here and parking
 
@@ -25,16 +21,27 @@ See [PARKING.md](PARKING.md) for info on getting here and where to park!
 * We'll have soft drinks and water and a some snacks, but if you'd like to bring some other snacks to share, 
 that would be great.
 
-# For Parents and Students
+# Info for Students
+
+## Special Reminder
+
+Students, remember that the dojo is partly a classroom, but mostly a **playground**. Ultimately, you get to decide 
+what programming languages, tools, and ideas you want to explore, learn, and play with. 
+And, all of us: mentors, other students, and parents are here to help you learn and have fun.
+
+We want you to feel free to pursue what is interesting to you. You can always ask a mentor about things that 
+interest you, or any other questions you have.
+
+We even have a special **Any Question Any Time** area where you can come to ask questions that might be 
+totally different from what is happening in the workshop areas. Or, you can come there with your laptop and 
+just work on whatever you want to and get help from mentors or other students.
 
 ## When you arrive
 
-Students: we'll have have multiple work areas, some set up as workshops broken down for different student skill levels, and
-another one called **Any Question Any Time** for you to talk with mentors about anything you want.
+We'll have have multiple work areas, some set up as workshops broken down for different student skill 
+levels, and another one called **Any Question Any Time** for you to talk with mentors about anything you want.
 
-Parents: you're welcome in the **Any Question Any Time** area too :-), but students get priority!
-
-## Students: what's your current experience with coding?
+## What's your current experience with coding?
 
 If you want to start with one of the workshops, see where you fit against these descriptions:
 
@@ -46,7 +53,7 @@ object-oriented programming, events, and web programming
 * **Advanced level**: You have already been programming for a while and have your own project that you'd like to 
 discuss with other students or mentors that can help you go further
 
-## Workshop Sessions
+# Workshop Sessions Summaries
 
 Each session will begin around 2:15, so pick one of these by then. You don't have to stick with the same 
 session the whole time, and we'll be repeating them at least for a few more sessions.
@@ -73,17 +80,14 @@ session the whole time, and we'll be repeating them at least for a few more sess
 
 ## Any Question Any Time area
 
-* For students with other questions, or who are at an **advanced level**
-  * Drop by the **Any Question Any Time** area to ask questions related to your own projects or ask how 
-you can get started on something that interests you, but is different from the other workshops.
+* If you have other questions or goals that don't fit into any of the workshops, or who are at an **advanced level**
+, come over to the **Any Question Any Time**. You can ask any question you want to mentors or other students, and you
+can even bring your laptop and just hang out and work on your own projects. It's up to you.
 
-**Note:** *we'll likely offer these same or similar sessions on an ongoing basis at future events so 
-don't feel like you're missing out on anything. You can always try the others later or even do the 
-materials on your own or with friends!*
+**Note:** *We'll continue to offer the same sessions for a while, and you can always drop in and out of a session 
+any time you like.*
 
-**Keep reading for all details.**
-
-# Full details
+# Workshop Sessions Details
 
 **Note:** The beginner's `Python Game` session requires special software to download ahead of time. And, if you want 
 to start creating a web page on your laptop that you can save for later, we recommend you download 
