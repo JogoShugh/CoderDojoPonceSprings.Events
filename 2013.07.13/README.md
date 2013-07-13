@@ -116,9 +116,9 @@ your friends.
 
 ### Starting URL
 
-http://goo.gl/wNf8i
+New version with Login, Favorites, "Riff" feature: http://goo.gl/iTwbg
 
-**New version!**: http://embed.plnkr.co/WI16H7Rsa5adejXSmyNj/preview (This is where I'm improving the tool)
+Old version: http://goo.gl/wNf8i
 
 ### Resources for going further after this tutorial
 
