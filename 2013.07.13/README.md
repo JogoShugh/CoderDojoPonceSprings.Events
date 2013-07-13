@@ -10,7 +10,7 @@ supported by mentors and parents! We hope you have a great time.
 * 2:15 PM: Welcome and kickoff -- Workshop leaders will describe the workshops areas, and students will pick and get settled in
 * 4:30 PM: Sessions wind up -- Workshop leaders seek feedback from the students about the session and ask them 
 what they want to try next time
-* 5:00 PM: Volunters begin shutting down
+* 5:00 PM: Volunteers begin shutting down
 
 # Info for Parents
 
