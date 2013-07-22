@@ -56,5 +56,11 @@ TODO:
 
 Mentors: 
 
+Class Description:
+
+* Intermediate Html will cover
+ * interactions between multiple pages
+ * tabs and other layouts with Bootstrap
+ * mouse rollover animations
 
 
