@@ -6,6 +6,8 @@ Terminology:
 
 Logistics:
 
+Follow Up call Schedule: Monday 12 - 12:30
+
 Parking: When people arrive, ask them to NOT park in the labeled private spots to avoid tows
 
 Erin's HTML 2 session notes:
