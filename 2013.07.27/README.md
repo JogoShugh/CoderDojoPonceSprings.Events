@@ -18,7 +18,7 @@ what they want to try next time
 
 ## Getting here and parking
 
-See [PARKING.md](PARKING.md) for info on getting here and where to park!
+See [PARKING.md](../PARKING.md) for info on getting here and where to park!
 
 ## What to bring
 
