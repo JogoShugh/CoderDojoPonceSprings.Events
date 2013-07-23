@@ -65,15 +65,19 @@ session the whole time, and we'll be repeating them at least for a few more sess
 
 * For **beginner level** students:
 
-  * **Workshop A-1:** Learn HTML and CSS basics
+  * **Workshop A-1:** Create a fun Tic-Tac-Toe game and learn HTML and CSS basics
   
   `or`
   
-  * **Workshop A-2:** Build your own web site
+  * **Workshop A-2:** Build your own web site and expand your HTML and CSS skills
   
   `or`
 
-  * **Workshop B:** Build a simple game with Python
+  * **Workshop B-1:** Create fun animations and geometric shapes with Python
+  
+  `or`
+
+  * **Workshop B-2:** Create a game with Scratch
 
 * For **intermediate level** students:
 
@@ -102,9 +106,11 @@ to start creating a web page on your laptop that you can save for later, we reco
 
 For students of any age that are totally new or have little exposure to programming and / or web development.
 
-## Workshop A-1: Learn HTML and CSS basics (Very similar to the first event's Workshop A)
+## Workshop A-1: Create a fun Tic-Tac-Toe game and learn HTML and CSS basics
 
 ### Software to install on your laptop before you attend
+
+TODO: Josh to revise 
 
 No special installation required. We will use an online HTML Chat tool that lets you experiment with HTML easily
 and share code with your friends.
@@ -129,7 +135,9 @@ There are lots more HTML tags that can be used for creating all kinds of cool pa
 * W3 Schools provides a good reference of HTML tags: http://www.w3schools.com
 * Code Avengers 3-Level HTML adventure learning: http://www.codeavengers.com/ (You can also learn JavaScript for apps and games!)
 
-## Workshop A-2: Build your own web site (Slightly more advanced than A-1)
+## Workshop A-2: Build your own web site and expand your HTML and CSS skills
+
+TODO: Erin to edit
 
 For students of any age that have done Workshop A, and would like to create a page that they can save on their
 laptop or publish online for friends and family to see.
@@ -157,7 +165,9 @@ Creating your own web page is really just the beginning of what you can do on th
 * Code Avengers 3-Level HTML adventure learning: http://www.codeavengers.com/ (You can also learn JavaScript for apps and games!)
 * HTMl5 Rocks web site with lots of tutorials: http://www.html5rocks.com/en/tutorials 
 
-## Workshop B: Build a simple game with Python.
+## Workshop B-1: Create fun animations and geometric shapes with Python
+
+TODO: Alex to edit
 
 You can find the complete instructions and lesson plan [here](pygame/README.md).
 
@@ -186,6 +196,11 @@ Now that you know the basics, you’re ready to become an expert. Here are some 
 * Feeling like a challenge? Try http://learnpythonthehardway.org/! Just kidding, it's actually quite an easy way to learn Python, a really good way to start if you're new to programming.
 * Tons of more learning resources for Python here: http://wiki.python.org/moin/BeginnersGuide/Programmers
 * The docummentatition and tutorials for the `pygame` library can be found here: http://www.pygame.org/docs/, there are also tons of pygame games available for download.
+
+## Workshop B-2: Create a game with Scratch
+
+TODO: Greg to edit
+
 
 # Intermediate level workshops
 
