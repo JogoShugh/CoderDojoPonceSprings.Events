@@ -208,6 +208,8 @@ For students who have some experience with coding, but want to dig into concepts
 
 ## Workshop C: Build the classic arcade game Pong in HTML, CSS, and JavaScript
 
+TODO: James to edit
+
 ### Software to install on your laptop before you attend
 
 No installation required. We’ll be using the free http://www.codepen.io, which allows you to author code and save it for sharing with others.
@@ -229,6 +231,8 @@ Pong is an arcade classic, no doubt. But, maybe you want to recreate some of the
 * Great collection of HTML5 games tutorials and tools: http://html5games.com/resources/ 
 
 ## Workshop D: Make battling JavaScript robots!
+
+TODO: Jim to edit
 
 ### Software to install on your laptop before you attend
 
