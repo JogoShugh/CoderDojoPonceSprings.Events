@@ -137,9 +137,8 @@ There are lots more HTML tags that can be used for creating all kinds of cool pa
 
 ## Workshop A-2: Build your own web site and expand your HTML and CSS skills
 
-TODO: Erin to edit
 
-For students of any age that have done Workshop A, and would like to create a page that they can save on their
+For students of any age that have done Workshop A, and would like to create a website that they can save on their
 laptop or publish online for friends and family to see.
 
 ### Software to install on your laptop before you attend
@@ -148,10 +147,13 @@ We recommend you download and install the free [Sublime Text 2](http://www.subli
 
 ### What you’ll learn
 
-Learn how to take what you learned in Workshop A, (HTML and CSS), to build your own web page that you can save
-on your laptop and/or publish online. You'll also learn how to create HTML tables, lists. If you get through
-those topics, you'll then start to build some HTML forms that viewers of your web site can use to 
-give you feedback on your site.
+Learn how to take what you learned in Workshop A, (HTML and CSS), to build your own web site that you can save
+on your laptop and/or publish online. 
+The second session will cover
+
+* interactions between multiple pages
+* tabs and other layouts with Bootstrap
+* mouse rollover animations
 
 ### Starting URL
 
