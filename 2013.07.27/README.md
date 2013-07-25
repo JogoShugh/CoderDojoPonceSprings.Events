@@ -1,6 +1,4 @@
-# NOTE:copied from 7/13, not edited as of 7/22!
-
-# CoderDojo Ponce Springs 7/13/2013 Event Outline and Resources
+# CoderDojo Ponce Springs 7/27/2013 Event Outline and Resources
 
 Thanks for attending CoderDojo Ponce Springs -- a free and fun place where Atlanta's kids learn how to code, 
 supported by mentors and parents! We hope you have a great time.
@@ -98,8 +96,8 @@ any time you like.*
 
 # Workshop Sessions Details
 
-**Note:** The beginner's `Python Game` session requires special software to download ahead of time. And, if you want 
-to start creating a web page on your laptop that you can save for later, we recommend you download 
+**Note:** The beginner's `Python Turtle` session requires special software to download ahead of time. And, if you 
+want to start creating a web page on your laptop that you can save for later, we recommend you download 
 [Sublime Text 2](http://www.sublimetext.com/2).
 
 # Beginner level workshops
@@ -110,23 +108,20 @@ For students of any age that are totally new or have little exposure to programm
 
 ### Software to install on your laptop before you attend
 
-TODO: Josh to revise 
-
-No special installation required. We will use an online HTML Chat tool that lets you experiment with HTML easily
+For building the Tic Tac Toe game, we recommend you download 
+[Sublime Text 2](http://www.sublimetext.com/2). We will also use an online HTML Chat tool that lets you experiment with HTML easily
 and share code with your friends.
 
 ### What you’ll learn
 
-Learn the basics of what Hypertext Markup Language (HTML) tags are and how you use them to create web pages. 
-You'll also learn how to change text colors, sizes, and add borders using Cascading Style Sheets (CSS). 
-You'll learn how to create moving text, and flashing text also. And, you can share your favorite examples with 
-your friends.
+Learn how to use foundational Hypertext Markup Language (HTML) tags and Cascasing Style Sheets (CSS) while
+creating a simple and fun Tic-Tac-Toe game that you can play against your friends.
 
 ### Starting URL
 
-New version with Login, Favorites, "Riff" feature: http://goo.gl/iTwbg
-
-Old version: http://goo.gl/wNf8i
+* Tic-Tac-Toe game (finished version): http://goo.gl/Hdtph2
+* Tic-Tac-Toe tutorial: TODO
+* HTML Chat Tool with Login, Favorites, "Riff" feature: http://goo.gl/iTwbg
 
 ### Resources for going further after this tutorial
 
