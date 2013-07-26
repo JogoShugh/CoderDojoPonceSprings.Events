@@ -75,7 +75,7 @@ session the whole time, and we'll be repeating them at least for a few more sess
   
   `or`
 
-  * **Workshop B-2:** Create a game with Scratch
+  * **Workshop B-2:** Recieve an introduction to the Scratch programming language created by MIT.  Documentation on what the introduction will cover [can be found here](https://github.com/versionone/CoderDojo-ScratchDemo/blob/master/README.md).
 
 * For **intermediate level** students:
 
