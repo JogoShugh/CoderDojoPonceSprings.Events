@@ -194,7 +194,7 @@ Now that you know the basics, you’re ready to become an expert. Here are some 
 * Tons of more learning resources for Python here: http://wiki.python.org/moin/BeginnersGuide/Programmers
 * The docummentatition and tutorials for the `pygame` library can be found here: http://www.pygame.org/docs/, there are also tons of pygame games available for download.
 
-## Workshop B-2: Create a game with Scratch
+## Workshop B-2: Scratch Introduction
 
 ### What is Scratch, anyway?
 
