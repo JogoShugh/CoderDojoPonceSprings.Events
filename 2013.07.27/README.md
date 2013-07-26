@@ -119,9 +119,10 @@ creating a simple and fun Tic-Tac-Toe game that you can play against your friend
 
 ### Starting URL
 
-* Tic-Tac-Toe game (finished version): http://goo.gl/Hdtph2
+* Tic-Tac-Toe game (finished version): http://goo.gl/3eN9PH
 * Tic-Tac-Toe tutorial: TODO
-* HTML Chat Tool with Login, Favorites, "Riff" feature: http://goo.gl/iTwbg
+
+**Note**: the HTML Chat Tool with Login, Favorites, "Riff" feature is still available here: http://goo.gl/iTwbg
 
 ### Resources for going further after this tutorial
 
