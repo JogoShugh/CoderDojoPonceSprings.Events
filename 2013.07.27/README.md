@@ -243,8 +243,6 @@ Pong is an arcade classic, no doubt. But, maybe you want to recreate some of the
 
 ## Workshop D: Make battling JavaScript robots!
 
-TODO: Jim to edit
-
 ### Software to install on your laptop before you attend
 
 No installation required. We’ll be using the free site http://fightcodegame.com/. This site requires that you have
@@ -258,6 +256,13 @@ You can study the documentation here: http://fightcodegame.com/docs/.
 Create virtual robots that battle each other head to head and rack up points while learning more about 
 programming JavaScript with functions, object-orientation and inheritance, events, and more.
   
+For True Intermediates, they can start coding, experimenting, and battling basic robots. For Those newer to 
+coding, we will discuss design problems, and their code solutions:
+
+* Movement Tutorial - focus creating a wall crawler (simple math calculations and angles)
+* Friendly fire - using cloning and NOT shooting friendly robots
+* Defense - Using 'Disappear' in a smart way to escape from an enemy
+   
 ### Resources for going further after this tutorial
 
 Fighting robots are popular in other languages too, but so are real, physical robots. Here are some resources:
