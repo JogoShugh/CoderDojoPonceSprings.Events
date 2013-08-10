@@ -1,4 +1,4 @@
-# CoderDojo Ponce Springs 7/27/2013 Event Outline and Resources
+# CoderDojo Ponce Springs 8/10/2013 Event Outline and Resources
 
 Thanks for attending CoderDojo Ponce Springs -- a free and fun place where Atlanta's kids learn how to code, 
 supported by mentors and parents! We hope you have a great time.
