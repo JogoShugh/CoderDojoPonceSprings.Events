@@ -109,7 +109,9 @@ creating a simple and fun Tic-Tac-Toe game that you can play against your friend
 
 * Tic-Tac-Toe game (finished version): http://goo.gl/3eN9PH
 * 9-Step tutorial: http://goo.gl/E91oZj
-* Advanced version with internet two-player mode (Work in progress!): http://embed.plnkr.co/gYyGXq
+* Advanced version with internet two-player mode (Work in progress!): 
+    * http://embed.plnkr.co/gYyGXq
+
 **Note**: the HTML Chat Tool with Login, Favorites, "Riff" feature is still available here: http://goo.gl/iTwbg
 
 ### Resources for going further after this tutorial
