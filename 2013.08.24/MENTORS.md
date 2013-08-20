@@ -1,3 +1,24 @@
+Aug 24 Session:
+
+Message to parents & students:
+
+Hello students and parents,
+
+Now that we've done this four times, we've started to see a lot of the same students coming back each time. This is a great thing! 
+
+But, students, we want to make sure you feel like:
+
+1. You're learning new things you want to master when you attend
+2. You can help other students learn things that you know already
+
+Here are some things we're considering implementing:
+
+1. The CoderDojo.com Badge system, where students gain
+recognition for a variety things: 
+
+
+--------------------
+
 CoderDojo Prep Session Notes:
 
 Open question: How to best support multiple levels of skill?
