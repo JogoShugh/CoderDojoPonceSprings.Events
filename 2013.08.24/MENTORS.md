@@ -16,12 +16,7 @@ And, mentors, we want to make sure you feel like:
 
 Here are some ideas we're considering implementing:
 
-1. **CoderDojo.com's Badge system** -- lets students gain recognition for a variety things: attending, skills they learn, helping others, etc. More info:
-    * http://coderdojo.com/about-us/belt-rankings/
-    * http://www.hastac.org/blogs/rcitow/2013/05/30/design-principles-assessing-learning-digital-badges
-    * https://groups.google.com/forum/?hl=en&fromgroups=#!topic/coderdojo-org/at6Zk9k5CoY
-
-2. **Use existing free learning resources** -- this will help intermediate to advanced students dig into self-directed learning and projects. As mentors, we would familiarize ourselves with these materials in order to be able to help and guide students in their path. Some examples:
+1. **Use existing free learning resources** -- this will help intermediate to advanced students dig into self-directed learning and projects. As mentors, we would familiarize ourselves with these materials in order to be able to help and guide students in their path. Some examples:
     * Self-guided lessons:
         * Codecademy lessons:
             * Web Fundamentals (Building a Site): http://www.codecademy.com/tracks/web
@@ -34,7 +29,13 @@ Here are some ideas we're considering implementing:
         * JavaScript: http://www.learnstreet.com/cg/simple/projects/javascript
         * Learnstreet also has lessons the way Codecademy does: http://www.learnstreet.com/lessons/languages/
 
-**Our request to students:** if you feel like you've made it past the beginner level, think about the things you'd love to learn next, and then discuss your ideas with your parents and with mentors when you visit the dojo next. **Even better:** you can start to explore the links under bullet 2 above and get started on your own, and then ask us questions about stuff you want to learn more about! If you find other free materials that help your learning process, please let us and other students know about those too. 
+2. **CoderDojo.com's Badge system** -- lets students gain recognition for a variety things: attending, skills they learn, helping others, etc. More info:
+    * http://coderdojo.com/about-us/belt-rankings/
+    * http://www.hastac.org/blogs/rcitow/2013/05/30/design-principles-assessing-learning-digital-badges
+    * https://groups.google.com/forum/?hl=en&fromgroups=#!topic/coderdojo-org/at6Zk9k5CoY
+
+
+**Our request to students:** if you feel like you've made it past the beginner level, think about the things you'd love to learn next, and then discuss your ideas with your parents and with mentors when you visit the dojo next. **Even better:** you can start to explore the links under the **Use existing free learning resources** above and get started on your own, and then ask us questions about stuff you want to learn more about! If you find other free materials that help your learning process, please let us and other students know about those too. 
 
 **Our request to mentors:** these are a few ideas we came up with in our last dojo review / prep call. We'd like to hear other ideas or improvements too. Outside of the calls, the best way to get in touch with us and be heard by a number of other mentors is our public HipChat channel at: http://www.hipchat.com/gnmHyMrCp
 
