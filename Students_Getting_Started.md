@@ -2,11 +2,11 @@
 
 As of August, 2013, we have had several regular learning "tracks":
 
-# Beginning HTML, CSS, and JavaScript
-# Intermediate HTML, CSS, and JavaScript
-# Beginning Python
-# Intermediate to Advanced JavaScript with Fighting Robots
-# Scratch
+* Beginning HTML, CSS, and JavaScript
+* Intermediate HTML, CSS, and JavaScript
+* Beginning Python
+* Intermediate to Advanced JavaScript with Fighting Robots
+* Scratch
 
 Here are some resources students in each of these tracks should pursue at home to strengthen skills:
 
