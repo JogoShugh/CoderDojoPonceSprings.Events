@@ -12,27 +12,27 @@ As of August, 2013, we have had several regular learning "tracks":
 
 Here are some resources students in each of these tracks should pursue at home to strengthen skills:
 
-# HTML/CSS/JavaScript tracks:
+## HTML/CSS/JavaScript tracks:
 
 [Codecademy Web Fundamentals](http://www.codecademy.com/tracks/web)
 
 You will probably want to follow the JavaScript tutorials linked in the JavaScript track section below also!
 
-# Python tracks: 
+## Python tracks: 
 
 [Codecademy Python tutorials](http://www.codecademy.com/tracks/python)
 
-# JavaScript tracks:
+## JavaScript tracks:
 
 [Codecademy JavaScript tutorials](http://www.codecademy.com/tracks/javascript)
 
-# For all the above tracks:
+## For all the above tracks:
 
 Once you've done the Codecademy lessons, try to find some fun projects and more materials from Learnstreet:
 
 [Learnstreet projects for JavaScript, Python, and more](http://www.learnstreet.com/cg/simple/projects/)
 
-# Scratch
+## Scratch
 
 * [How to download Scratch](https://github.com/versionone/CoderDojo-ScratchDemo/blob/master/README.md)
 * [Scratch Tutorial](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf)
