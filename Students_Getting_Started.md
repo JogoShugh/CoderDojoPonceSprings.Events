@@ -5,29 +5,32 @@ As of August, 2013, we have had several regular learning "tracks":
 * Beginning HTML, CSS, and JavaScript
 * Intermediate HTML, CSS, and JavaScript
 * Beginning Python
+* Intermediate to Advanced Python with Learnstreet.com Projects
 * Intermediate to Advanced JavaScript with Fighting Robots
+* Intermediate to Advanced JavaScript with Learnstreet.com Projects
 * Scratch
 
 Here are some resources students in each of these tracks should pursue at home to strengthen skills:
 
-# Both HTML levels: 
+# HTML/CSS/JavaScript tracks:
 
 [Codecademy Web Fundamentals](http://www.codecademy.com/tracks/web)
 
 You will probably want to follow the JavaScript tutorials linked in the JavaScript track section below also!
 
-# Python track: 
+# Python tracks: 
 
 [Codecademy Python tutorials](http://www.codecademy.com/tracks/python)
 
-# JavaScript track:
+# JavaScript tracks:
 
 [Codecademy JavaScript tutorials](http://www.codecademy.com/tracks/javascript)
+
+# For all the above tracks:
 
 Once you've done the Codecademy lessons, try to find some fun projects and more materials from Learnstreet:
 
 [Learnstreet projects for JavaScript, Python, and more](http://www.learnstreet.com/cg/simple/projects/)
-
 
 # Scratch
 
