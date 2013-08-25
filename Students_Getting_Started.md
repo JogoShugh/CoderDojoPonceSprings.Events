@@ -2,17 +2,17 @@
 
 As of August, 2013, we have had several regular learning "tracks":
 
-* Beginning HTML, CSS, and JavaScript
-* Intermediate HTML, CSS, and JavaScript
-* Beginning Python
-* Intermediate to Advanced Python with Learnstreet.com Projects
+* Beginning HTML/CSS/JavaScript
+* Intermediate HTML/CSS/JavaScript
 * Intermediate to Advanced JavaScript with Fighting Robots
 * Intermediate to Advanced JavaScript with Learnstreet.com Projects
-* Scratch
+* Beginning Python
+* Intermediate to Advanced Python with Learnstreet.com Projects
+* Beginning Scratch
 
 # Online resources for student learning
 
-Here are some resources students in each of these tracks should pursue at home to strengthen skills. **You should 
+Students, you should complete the resources below at home to strengthen you skills. **New students, you should 
 start on these even before you attend your first dojo, to see what inspires you and what you want to get
 help with.**
 
@@ -22,13 +22,13 @@ help with.**
 
 You will probably want to follow the JavaScript tutorials linked in the JavaScript track section below also!
 
-## Python tracks: 
-
-[Codecademy Python tutorials](http://www.codecademy.com/tracks/python)
-
 ## JavaScript tracks:
 
 [Codecademy JavaScript tutorials](http://www.codecademy.com/tracks/javascript)
+
+## Python tracks: 
+
+[Codecademy Python tutorials](http://www.codecademy.com/tracks/python)
 
 ## For all the above tracks:
 
