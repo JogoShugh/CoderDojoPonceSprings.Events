@@ -10,7 +10,11 @@ As of August, 2013, we have had several regular learning "tracks":
 * Intermediate to Advanced JavaScript with Learnstreet.com Projects
 * Scratch
 
-Here are some resources students in each of these tracks should pursue at home to strengthen skills:
+# Online resources for student learning
+
+Here are some resources students in each of these tracks should pursue at home to strengthen skills. **You should 
+start on these even before you attend your first dojo, to see what inspires you and what you want to get
+help with.**
 
 ## HTML/CSS/JavaScript tracks:
 
