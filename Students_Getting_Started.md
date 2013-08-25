@@ -10,7 +10,7 @@ As of August, 2013, we have had several regular learning "tracks":
 * Intermediate to Advanced Python with Learnstreet.com Projects
 * Beginning Scratch
 
-# Online lessons and projects
+# **Free** online lessons and projects
 
 Students, you should complete the resources below at home to strengthen you skills. **New students, you should 
 start on these even before you attend your first dojo, to see what inspires you and what you want to get
