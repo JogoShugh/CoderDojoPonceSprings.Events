@@ -39,11 +39,7 @@ interest you, or any other questions you have.
 
 ## What to do before coming to Coder Dojo, and in between sessions
 
-Please see our **[Students getting started and online learning guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/Students_Getting_Started.md)**. 
-
-### What's in the guide?
-
-It has lots of great free resources that you should study and practice with in your own time on the following learning tracks:
+Please see our **[Students getting started and online learning guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/Students_Getting_Started.md)**. In it, you'll find lots of great free resources that you should study and practice with in your own time on the following learning tracks:
 
 * Beginning HTML/CSS/JavaScript
 * Intermediate HTML/CSS/JavaScript
@@ -60,15 +56,14 @@ You should start on one or more of these tracks so that you'll have good questio
 _We highly encourage you to utilize the free lessons and projects on **Codecademy** and **Learnstreet**, and other online resources._
 
 
-
 ## When you arrive
 
-We'll have have multiple work areas, some set up as workshops broken down for different student skill 
+You'll find multiple work areas, most set up as workshops broken down for different skill 
 levels. 
 
 ## What's your current experience with coding?
 
-If you want to start with one of the workshops, see where you fit against these descriptions:
+Think about where you fit against these descriptions:
 
 * **Beginner level**: You are totally new or have little exposure to programming and / or web development
 
@@ -76,9 +71,4 @@ If you want to start with one of the workshops, see where you fit against these 
 object-oriented programming, events, and web programming
 
 * **Advanced level**: You have already been programming for a while and have your own project that you'd like to 
-discuss with other students or mentors that can help you go further
-
-# Workshop Sessions Summaries
-
-Each session will begin around 2:15, so pick one of these by then. You don't have to stick with the same 
-session the whole time, and we'll be repeating them at least for a few more sessions.
+discuss with other students or mentors that can help you go further.
