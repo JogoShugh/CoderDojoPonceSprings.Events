@@ -17,8 +17,9 @@ Click a workshop title below to see full details about:
 
 ### Intermediate
 
-* [JavaScript -- Battling Robots](../Workshop/BattlingRobots)
-* [JavaScript -- Self-directed projects](../Workshop/JavaScriptSelfDirected)
+* [HTML/CSS/JavaScript -- Build your own web site](../Workshops/Build-your-own-web-site)
+* [JavaScript -- Battling Robots](../Workshop/Battling-Robots)
+* [JavaScript -- Self-directed projects](../Workshop/JavaScript-Self-Directed)
 
 
 
