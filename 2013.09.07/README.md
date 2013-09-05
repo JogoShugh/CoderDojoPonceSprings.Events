@@ -13,6 +13,9 @@ Click a workshop title to see full details about any software to download or oth
 
 ### Intermediate
 
+* [JavaScript -- Battling Robots](../Workshop/BattlingRobots)
+* [JavaScript -- Self-directed projects](../Workshop/JavaScriptSelfDirected)
+
 
 
 
