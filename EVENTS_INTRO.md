@@ -39,7 +39,27 @@ interest you, or any other questions you have.
 
 ## What to do before coming to Coder Dojo, and in between sessions
 
-Please see our **[Students getting started and online learning guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/Students_Getting_Started.md)**. It has lots of great free resources that you should study and practice with in your own time so that you'll have good questions and ideas for what you'd like to learn more about when you visit the dojo in person. We highly encourage you to utilize the free lessons and projects on **Codecademy** and **Learnstreet**, and other online resources.
+Please see our **[Students getting started and online learning guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/Students_Getting_Started.md)**. 
+
+### What's in the guide?
+
+It has lots of great free resources that you should study and practice with in your own time on the following learning tracks:
+
+* Beginning HTML/CSS/JavaScript
+* Intermediate HTML/CSS/JavaScript
+* Intermediate to Advanced JavaScript with Fighting Robots
+* Intermediate to Advanced JavaScript with Learnstreet.com Projects
+* Beginning Python
+* Intermediate to Advanced Python with Learnstreet.com Projects
+* Beginning Scratch
+
+You should start on one or more of these tracks so that you'll have good questions and ideas for what you'd like to learn more about when you visit the dojo in person. 
+
+### Highly recommended
+
+_We highly encourage you to utilize the free lessons and projects on **Codecademy** and **Learnstreet**, and other online resources._
+
+
 
 ## When you arrive
 
