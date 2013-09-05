@@ -1,7 +1,7 @@
 # CoderDojo Ponce Springs Events 
 
-Thanks for attending CoderDojo Ponce Springs -- _a free and fun place where Atlanta's kids learn how to code, 
-supported by mentors and parents!_ We hope you have a great time.
+Thanks for attending CoderDojo Ponce Springs -- **_a free and fun place where Atlanta's kids learn how to code, 
+supported by mentors and parents!_** We hope you have a great time.
 
 All events follow a basic agenda:
 
