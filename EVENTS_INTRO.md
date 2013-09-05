@@ -59,7 +59,7 @@ _We highly encourage you to utilize the free lessons and projects on **Codecadem
 ## When you arrive
 
 You'll find multiple work areas, most set up as workshops broken down for different skill 
-levels. 
+levels. See next:
 
 ## What's your current experience with coding?
 
