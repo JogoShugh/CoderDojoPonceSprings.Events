@@ -72,3 +72,7 @@ object-oriented programming, events, and web programming
 
 * **Advanced level**: You have already been programming for a while and have your own project that you'd like to 
 discuss with other students or mentors that can help you go further.
+
+# Have fun and learn a lot! Let us know how we're doing too :-D
+
+We want you to have fun and learn lots of new things! We also love your feedback and want to know what kinds of ideas you have and what you want to learn, so let us know when you visit! Thanks!
