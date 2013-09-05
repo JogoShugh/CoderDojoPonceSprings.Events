@@ -4,7 +4,11 @@ First, read the [Events Intro document](../EVENTS_INTRO.md) for the overall agen
 
 ## Workshops for this event:
 
-Click a workshop title to see full details about any software to download or other resources to look at before arriving:
+Click a workshop title to see full details about:
+
+* Suggested prerequisite online lessons or practice projects to try before you arrive
+* Any software to download on your computer for the workshop
+* Or, any other relevant resources to look at before arriving
 
 ### Beginners
 
