@@ -12,14 +12,14 @@ Click a workshop title below to see full details about:
 
 ### Beginners
 
-* [HTML/CSS/JavaScript -- Build a Tic-Tac-Toe game](../Workshops/Tic-Tac-Toe)
-* [Python -- Learn to program using Python](../Workshops/Python)
+* [HTML/CSS/JavaScript -- Build a Tic-Tac-Toe game](../Workshops/Tic-Tac-Toe-game)
+* [Python -- Learn Python programming](../Workshops/Learn-Python-programming)
 
 ### Intermediate
 
 * [HTML/CSS/JavaScript -- Build your own web site](../Workshops/Build-your-own-web-site)
 * [JavaScript -- Battling Robots](../Workshop/Battling-Robots)
-* [JavaScript -- Self-directed projects](../Workshop/JavaScript-Self-Directed)
+* [JavaScript -- Self-directed projects](../Workshop/JavaScript-Self-Directed-projects)
 
 
 
