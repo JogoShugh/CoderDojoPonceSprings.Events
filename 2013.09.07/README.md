@@ -4,5 +4,5 @@ First, read the [Events Intro document](../EVENTS_INTRO.md) for the overall agen
 
 ## Workshops for this event:
 
-[Beginners HTML/CSS/JavaScript -- Build a Tic-Tac-Toe game](../Workshops/HTML.CSS.JavaScript.Beginner-Tic-Tac-Toe/README.md)
+[Beginners HTML/CSS/JavaScript -- Build a Tic-Tac-Toe game](../Workshops/Tic-Tac-Toe)
 
