@@ -3,11 +3,11 @@
 For students of any age that have done Workshop A, and would like to create a website that they can save on their
 laptop or publish online for friends and family to see.
 
-### Software to install on your laptop before you attend
+## Software to install on your laptop before you attend
 
 We recommend you download and install the free [Sublime Text 2](http://www.sublimetext.com/2) editor.
 
-### What you’ll learn
+## What you’ll learn
 
 Learn how to take what you learned in Workshop A, (HTML and CSS), to build your own web site that you can save
 on your laptop and/or publish online. 
@@ -17,11 +17,11 @@ The second session will cover
 * tabs and other layouts with Bootstrap
 * mouse rollover animations
 
-### Starting URL
+## Starting URL
 
 http://jsbin.com/epahim/latest
 
-### Resources for going further after this tutorial
+## Resources for going further after this tutorial
 
 Creating your own web page is really just the beginning of what you can do on the web! Try these out:
 
