@@ -10,4 +10,4 @@ General Instructrions:
 5. Set up 2 tables for snacks (use cooler for drinks)
 6. Use the table in the lobby to track attendance and to be a central organizing point. 
 
-See also Diagram: https://raw.github.com/JogoShugh/CoderDojoPonceSprings.Events/master/CoderDojoSetup.png
+See also Diagram: https://github.com/CoderDojoPonceSprings/Events/blob/master/CoderDojoSetup.png
