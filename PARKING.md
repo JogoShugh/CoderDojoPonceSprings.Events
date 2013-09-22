@@ -1,4 +1,8 @@
-# Parking for CoderDojo Ponce Springs at Ponce Springs Lofts
+# Parking for CoderDojo Ponce Springs
+
+We have two dojo locations:
+
+# 1. Midtown Atlanta office (Ponce Springs Lofts building)
 
 ## Finding Us
 * We're in the bottom floor of the Ponce Springs building at 620 Glen Iris Drive Suite 1B, at the corner of Glen Iris 
@@ -27,3 +31,10 @@ who park here get towed :(
 * **I don't advise you to park in Dancing Goats lot**, as it is private. The security for Ponce Springs Market is 
 very strict about this, and we do not have official approval for visitors to park there.
  * However, if you purchase a coffee or something from Dancing Goats, then you are their customer for the day.
+
+# 2. Alpharetta VersionOne Headquarters
+
+It's not hard to find or park at the VersionOne headquarters office. The address is 
+6220 Shiloh Road Suite 400. Atlanta, GA 30005. Dojo events are held on the bottom floor, so you can park 
+around the back of the building and enter through the doors on the bottom. We're in the same building as the Taco Mac
+office. Unfortunately, there is no Taco Mac restaurant there though.
