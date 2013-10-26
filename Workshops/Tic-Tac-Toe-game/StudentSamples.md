@@ -1,6 +1,7 @@
 # Josh starting template:
 
-* http://embed.plnkr.co/HSKlGw/preview
+* Example template with lots of variations you can try: http://embed.plnkr.co/1CZJZM/index.html
+* Bare template: http://embed.plnkr.co/HSKlGw/preview
 
 # Student mods
 
