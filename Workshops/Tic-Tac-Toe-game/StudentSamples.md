@@ -10,4 +10,6 @@
 * http://embed.plnkr.co/W95QGI/preview
 * http://embed.plnkr.co/HSKlGw/preview
 * http://embed.plnkr.co/1CZJZM/preview
+* http://embed.plnkr.co/E9gdq9/preview
+* http://embed.plnkr.co/GUwSlc/preview
 
