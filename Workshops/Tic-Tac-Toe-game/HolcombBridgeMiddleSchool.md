@@ -16,6 +16,7 @@ We have code samples of the game implemented with varying levels of sophisticati
 # Josh's starting template:
 
 * Example template with lots of variations you can try: http://embed.plnkr.co/1CZJZM/index.html
+    * Or: http://goo.gl/P6f2m9
 * Bare template: http://embed.plnkr.co/HSKlGw/preview
 
 # Some real student modifications from other Coder Dojo's in Atlanta and Alpharetta
