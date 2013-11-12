@@ -31,7 +31,9 @@ We have code samples of the game implemented with varying levels of sophisticati
 
 ## Sample 2: Score-keeping and powerful JavaScript code from a famous company
 
-The second example uses more powerful code techniques, including using a  
+Link: http://embed.plnkr.co/3EhMOy/preview
+
+This second example uses more powerful code techniques, including using a  
 JavaScript library called AngularJS created by the software developers who work at Google.
 AngularJS is a free and "open source" library that makes building interactive web pages, mobile apps, and games
 easier.
