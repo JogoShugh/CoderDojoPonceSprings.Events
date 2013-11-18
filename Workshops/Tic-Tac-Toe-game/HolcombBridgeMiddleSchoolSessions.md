@@ -12,7 +12,7 @@ about these, and a great place to start reinforcing your understanding is to go 
 ### Other materials we used in the first session
 
 * [CoderDojo Tic Tac Toe game and starter templates](https://github.com/CoderDojoPonceSprings/Events/blob/master/Workshops/Tic-Tac-Toe-game/HolcombBridgeMiddleSchool.md)
-* Multi-player Tic-Chat-Toe version ](http://jogoshugh.github.io/CoderDojoPonceSprings.TicTacToe/vNext/)
+* Multi-player Tic-Chat-Toe version](http://jogoshugh.github.io/CoderDojoPonceSprings.TicTacToe/vNext/)
   * [Source code link](https://github.com/JogoShugh/CoderDojoPonceSprings.TicTacToe/tree/master/vNext)
 
 ## Session 2: Tuesday, November 19th
