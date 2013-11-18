@@ -34,7 +34,7 @@ To get ready to build your ideas into the game, make sure you've gone through an
 
 ### Intermediate
 
-It won't hurt to try other tutorials from Codecademy, if you'd like. And, if you want to get advanced, start to 
+It won't hurt to try other tutorials from Codecademy, if you'd like. And, if you want to get into intermediate code, start to 
 [learn AngularJS with this tutorial](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/).
 
 ## Session 3: Tuesday, December 3rd
