@@ -23,7 +23,7 @@ about these, and a great place to start reinforcing your understanding is to go 
 
 Since most of you are new to the subjects of programming and web development, we will use this session to start learning the JavaScript programming language.
 
-During the last 15 minutes of the session, we'll all play the Tic Tac Toe games some more, and come up ideas for new features or to build, as a group, during the 3rd session.
+During the last 15 minutes of the session, we'll all play the Tic Tac Toe games some more, and come up with ideas for new features to build, as a group, during the 3rd session.
 
 ### Homework after Session 2
 
