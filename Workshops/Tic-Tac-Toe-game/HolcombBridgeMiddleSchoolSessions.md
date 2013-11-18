@@ -1,4 +1,3 @@
-
 # Holcomb Bridge Middle School CoderDojo Founding Sessions
 
 ## Session 1: Tuesday, November 12th
@@ -8,8 +7,7 @@
 ### Recap
 
 This first session introduced you to HTML, CSS, and JavaScript technologies. There's much more to learn 
-about these, and a great place to start reinforcing your understanding is to go through the free online lessons at Codecademy, starting with their **Web Fundamentals** course. That course will help you prepare for our third session,
-where you'll combine it with what you learn in the second session to make new features in your Tic Tac Toe game.
+about these, and a great place to start reinforcing your understanding is to go through the free online lessons at Codecademy, starting with their [**Web Fundamentals**](http://www.codecademy.com/tracks/web) course. That course will help you prepare for our third session, where you'll combine it with what you learn in the second session to make new features in your Tic Tac Toe game.
 
 ### Other materials we used in the first session
 
@@ -23,8 +21,7 @@ where you'll combine it with what you learn in the second session to make new fe
 
 ### Preview
 
-Since most of you are new to the subjects of programming and web development, we will use this session to start learning 
-the JavaScript programming language.
+Since most of you are new to the subjects of programming and web development, we will use this session to start learning the JavaScript programming language.
 
 During the last 15 minutes of the session, we'll all play the Tic Tac Toe games some more, and come up ideas for new features or to build, as a group, during the 3rd session.
 
@@ -34,6 +31,11 @@ To get ready to build your ideas into the game, make sure you've gone through an
 
 * **Web Fundamentals: http://www.codecademy.com/tracks/web** -- Builds upon the intro materials from the first session
 * **Introduction to JavaScript: http://www.codecademy.com/tracks/javascript** -- The tutorial we did in session 2
+
+### Intermediate
+
+It won't hurt to try other tutorials from Codecademy, if you'd like. And, if you want to get advanced, start to 
+[learn AngularJS with this tutorial](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/).
 
 ## Session 3: Tuesday, December 3rd
 
