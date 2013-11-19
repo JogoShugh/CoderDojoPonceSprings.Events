@@ -25,6 +25,12 @@ Since most of you are new to the subjects of programming and web development, we
 
 During the last 15 minutes of the session, we'll all play the Tic Tac Toe games some more, and come up with ideas for new features to build, as a group, during the 3rd session.
 
+### GAME TIME:
+
+Login to this chatroom (make up a nickname when it prompts you):
+
+* https://kiwiirc.com/client/irc.mozilla.org/coderdojohb
+
 ### Homework after Session 2
 
 To get ready to build your ideas into the game, make sure you've gone through and understand the two tutorials mentioned above:
