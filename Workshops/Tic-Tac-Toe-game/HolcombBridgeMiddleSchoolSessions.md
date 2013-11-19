@@ -27,9 +27,17 @@ During the last 15 minutes of the session, we'll all play the Tic Tac Toe games 
 
 ### GAME TIME:
 
-Login to this chatroom (make up a nickname when it prompts you):
+* Start a new tab with: https://kiwiirc.com/client/irc.mozilla.org/coderdojohb
+  * Login to the chatroom by making up a nickname when it prompts you
+* Open the Tic-Tac-Toe template game at: http://embed.plnkr.co/Yu1pik/preview
+* Click the "Challenge a friend" button and wait for the controls to appear, then click the + friend button
+  * Copy the link and paste it in the chatroom so someone else can join
+* Notice that you can change the "Nick name" and it changes **everyone's** nick name! This is a bug!
 
-* https://kiwiirc.com/client/irc.mozilla.org/coderdojohb
+** Challenge for Session 3 ** 
+
+* Modify the template's code so that instead of reading the nickname from the text box, it uses the 
+JavaScript 'prompt' function (Read about it here: http://www.w3schools.com/jsref/met_win_prompt.asp)
 
 ### Homework after Session 2
 
