@@ -34,7 +34,7 @@ During the last 15 minutes of the session, we'll all play the Tic Tac Toe games 
   * Copy the link and paste it in the chatroom so someone else can join
 * Notice that you can change the "Nick name" and it changes **everyone's** nick name! This is a bug!
 
-** Challenge for Session 3 ** 
+#### Challenge for Session 3
 
 * Modify the template's code so that instead of reading the nickname from the text box, it uses the 
 JavaScript 'prompt' function (Read about it here: http://www.w3schools.com/jsref/met_win_prompt.asp)
