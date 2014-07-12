@@ -3,6 +3,15 @@
 Thanks for attending CoderDojo Ponce Springs -- **_a free and fun place where Atlanta's kids learn how to code, 
 supported by mentors and parents!_** We hope you have a great time.
 
+# Mental Fitness Atlanta student info!
+
+For Mental Fitness Atlanta
+
+* Josh contact: jsgough@gmail.com
+* Your pages in Plunker: [http://plnkr.co/tags/cdps,mentalfitness](http://plnkr.co/tags/cdps,mentalfitness)
+* Homework: start doing the HTML tutorial at W3Schools, and use some of what you learn in your Plunker page: [http://www.w3schools.com/html/html_intro.asp](http://www.w3schools.com/html/html_intro.asp)
+
+
 # Event details
 
 All events follow the basic agenda described below. For event-specific details on workshops, software downloads, and 
