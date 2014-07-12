@@ -16,6 +16,7 @@ You can also see your info and your classmate's info at [http://signinsheet.mete
 
 # What are we looking for?
 
-* Learn
-* Help your classmates learn
-* 
+* Learn as much as you can :-D
+* When you've figured something out, try to help a classmate if they want some help!
+* Ask mentors questions if you've tried your best and you and a classmate still are having trouble.
+* Most of all, have fun!
