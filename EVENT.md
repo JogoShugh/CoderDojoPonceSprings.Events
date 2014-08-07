@@ -40,29 +40,14 @@ Want to get even more in-depth? You can download the courseware and training fro
 
 # 2:45 PM - 4:15 PM: For Series Track Students:
 
-We'll have new installments of two popular mentor-led series during this event, [Learn to Program with Minecraft Plugins]((Workshops/MinecraftPlugins/README.md), Part 3**, and [HTML5 Game Development with JavaScript Quintus](Workshops/HTML5GamesQuintus/README.md), Part 3**. 
+We'll have new installments of two popular mentor-led series during this event:
+
+* [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md), Part 3 -- led by Erin Stanfill
+* [HTML5 Game Development with JavaScript Quintus](Workshops/HTML5GamesQuintus/README.md), Part 3 -- led by Josh Gough
+
+Please cllick the name of the track for full requirements and details.
 
 All students are welcome during this part even if they have their own projects that they'd rather work on.  Mentors will take time to answer questions and work with all students.
-
-## Mentor-led Session 1:  Learn to Program with Minecraft Plugins, Part 3
-
-*Led by Erin Stanfill*
-
-### Summary
-
-Want to build a house or flying, burning cows? See this video preview about what you'll learn to do in Minecraft! 
-
-### Schedule
-
-1:30 PM - 2:30 PM: Come early to catch up on chapters 1 to 3 if you need to
-
-2:45 PM - 4:15 PM: Covering chapters 4 - 6
-
-### Requirements
-
-This session is the next installment for beginners who have never programmed before, or for any student interested to write plugins and mods for Minecraft. We'll be using the instruction from this book: http://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins . It is helpful if you purchase the book, though we can give you a copy of the PDF for free
-
-
 
 
 
