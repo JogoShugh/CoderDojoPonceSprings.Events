@@ -7,6 +7,8 @@ Led by Erin Stanfill
 
 Want to build a house or flying, burning cows? See this video preview about what you'll learn to do in Minecraft! 
 
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
 [![Minecraft Plugins](http://imagery.pragprog.com/products/364/ahmine_xlargecover.jpg?1386097917)]
 
 ### Requirements
