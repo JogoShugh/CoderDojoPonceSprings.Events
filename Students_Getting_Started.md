@@ -13,14 +13,14 @@ help with.** Even if you're not new, completing the resources below at home will
 * [Scratch Tutorial](http://scratch.mit.edu/scratchr2/static/__1374511755__//pdfs/help/Getting-Started-Guide-Scratch2.pdf)
 * [Free scratch video course](http://www.pluralsight.com/training/Courses/TableOfContents/learning-programming-scratch)
 
-# Beginning Web Site Development:
+# Beginning Web Site Development
 
 Want to learn about building web pages? It's best if you start on your own, and then come in with questions we can help you with. 
 
 * Start with this [Build a Web Page All About You](http://www.codecademy.com/goals/web-beginner-en-3pc6w) tutorial. We'll help you fix bugs and add new stuff.
 * If you complete that, start on the [Web Fundamentals course](http://www.codecademy.com/tracks/web) to learn more.
 
-# Beginning Web Programming with JavaScript:
+# Beginning Web Programming with JavaScript
 
 Want to learn about writing programs that create animation or scripts that can make your web page more fun and interactive?
 
@@ -30,11 +30,11 @@ Want to learn about writing programs that create animation or scripts that can m
 
 * Mastered those? Try [animating the solar system in this tutorial](http://www.codecademy.com/goals/web-beginner-en-ymqg0)! 
 
-# Beginning Python Programming: 
+# Beginning Python Programming
 
 [Codecademy Python tutorials](http://www.codecademy.com/tracks/python)
 
-# For all the above tracks:
+# For all the above tracks
 
 Once you've done the Codecademy lessons, try to find some fun projects and more materials from Learnstreet:
 
@@ -54,20 +54,16 @@ We know many of you have been through the materials above and others. You can ke
 * Come with ideas of new things you want to learn
 * Mentors will be available to help you go further or get started on new things
 
-# More resources
-
-Code.org keeps a good "jumping off" point for online learning [right here](http://www.code.org/learn/codehs).
-
 # Resources developed by CoderDojo Ponce Springs mentors!
 
 Some of the mentors in our dojo have been developing resources of their own for you.
 
 We're working on organizing the materials better for you, but you can find them all linked from the README.md files 
-inside the folders corresponding to previous events here: [CoderDojoPonceSprings.Events](https://github.com/JogoShugh/CoderDojoPonceSprings.Events)
+inside the folders corresponding to previous events here: [CoderDojoPonceSprings.Events](https://github.com/CoderDojoPonceSprings/Events)
 
+# And even more resources!
 
-# And even more!
-
+Code.org keeps a good "jumping off" point for online learning [right here](http://www.code.org/learn/codehs).
 You are not limited to learning these languages in our dojo! It's just that, so far, this is what most students 
 have expressed interest in, and what most mentors have experience with. If you have other goals and ideas, just 
 let us know and we'll do our best to help you get started or take what you've already done even further.
