@@ -10,9 +10,9 @@ Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Even
 
 # This Event
 
-This session is broken into two halves, where we'll support both beginners and returning students working our ongoing series tracks! Note earlier start: we're starting the first half at 1 instead of 2.
+This session is broken into two halves, where we'll support both beginners and returning students working our ongoing series tracks!
 
-# Quick Summary
+# Schedule Summary
 
 1:00 - 2:30 PM: For beginners. Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
 
