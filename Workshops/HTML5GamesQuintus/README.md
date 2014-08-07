@@ -15,8 +15,7 @@ This sessions is for students who have been learning JavaScript as a starting bl
 * [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 * [Statements (Control flow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements)
 * [Bonus: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) 
-
-• Super Bonus: [Core Quintus Basics](http://html5quintus.com/guide/core.md#.U5nGkPldWoM) (Even though it says Basics, you definitely need to understand everything above, and probably other parts of JavaScript before you will really understand this information. But, don't worry too much. The reason you're in these sessions is to start figuring it out as a group and with our help!) 
+* **Super Bonus**: [Core Quintus Basics](http://html5quintus.com/guide/core.md#.U5nGkPldWoM) (Even though it says Basics, you definitely need to understand everything above, and probably other parts of JavaScript before you will really understand this information. But, don't worry too much. The reason you're in these sessions is to start figuring it out as a group and with our help!) 
 
 If you are advanced,  there are [tons of getting started resources here](http://html5quintus.com/documentation#.U5nDQPldWoN). You can also find videos on YouTube about Quintus.
 
