@@ -1,4 +1,4 @@
-# The CoderDojo Promise: (from CoderDojo.com)
+# The CoderDojo Promise (from CoderDojo.com)
 
 ## Open Free Learning!
 
