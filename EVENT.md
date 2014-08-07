@@ -1,5 +1,15 @@
 # Parents, remember to bring a laptop for your student. 
 
+## Volunteers, Mentors
+
+If you're volunteering for the first time, we need you to [complete the application and background check authorization by going to this page](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/).
+
+## Parking Tips
+
+Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md). 
+
+# This Event
+
 This session is broken into two halves, where we'll support both beginners and returning students working our ongoing series tracks! Note earlier start: we're starting the first half at 1 instead of 2.
 
 # Quick Summary
@@ -173,26 +183,6 @@ Want to lead a session? Tell us when you RSVP in the comments! We'd love it if y
 Resources for Self-Directed Learners to Start on at Home:
 
 
-
-General Information: 
-
-Please refer to our main intro document on GitHub for general information and look for a folder named after the specific event date for specific information.
-
-
-Students and Parents:
-
-Students, we have more resources linked in our Students getting started and online learning guide to help you get started at home. 
-
-
-
-Volunteers, Mentors:
-If you're volunteering for the first time, we need you to complete the application and background check authorization by going to this page.
-
-
-
-Parking Tips:
-
-See our parking guide on GitHub for more info.
 
 
 
