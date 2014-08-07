@@ -5,13 +5,9 @@ Led by Erin Stanfill
 
 ## Summary
 
-Want to build a house or flying, burning cows? See this video preview about what you'll learn to do in Minecraft! 
+Want to build a house or flying, burning cows? [See this video preview](http://www.youtube.com/watch?v=hhwRH9njsZg) about what you'll learn to do in Minecraft! 
 
-[![MineCraft](http://imagery.pragprog.com/products/364/ahmine_xlargecover.jpg?1386097917)](http://youtu.be/vt5fpE0bzSY)
-
-
-
-### Requirements
+## Requirements
 
 This session is the next installment for beginners who have never programmed before, or for any student interested to write plugins and mods for Minecraft. We'll be using the instruction from this book: [http://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins](http://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins). It is helpful if you purchase the book, though we can give you a copy of the PDF for free
 
