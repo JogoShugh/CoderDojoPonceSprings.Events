@@ -1,4 +1,21 @@
-# Parking for CoderDojo Ponce Springs at Ponce Springs Lofts
+# Parking for CoderDojo Ponce Springs
+
+We have two dojo locations:
+
+# 1. Alpharetta VersionOne headquarters
+
+This one is easy.
+
+It's not hard to find or park at the VersionOne headquarters office. The address is 
+6220 Shiloh Road Suite 400. Atlanta, GA 30005. It is off McFarland Road, which is exit 12 on 400. If driving north
+on 400, then turn right. If coming south, turn left. The turn to Shiloh road is just past the parking area for the 
+Big Creek Greenway trail -- a nice place to walk after a dojo, no doubt.
+
+Dojo events are held on the bottom floor, so you can park 
+around the back of the building and enter through the doors on the bottom. We're in the same building as the Taco Mac
+office. Unfortunately, there is no Taco Mac restaurant there though.
+
+# 2. Midtown Atlanta office in the Ponce Springs Lofts building
 
 ## Finding Us
 * We're in the bottom floor of the Ponce Springs building at 620 Glen Iris Drive Suite 1B, at the corner of Glen Iris 
