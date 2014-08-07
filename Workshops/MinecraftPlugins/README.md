@@ -1,6 +1,6 @@
 # Learn to Program with Minecraft Plugins
 
-Led by Erin Stanfill
+Led by [Erin Stanfill](http://www.github.com/tinyels)
 
 
 ## Summary
