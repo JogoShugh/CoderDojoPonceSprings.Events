@@ -7,7 +7,7 @@ Led by Erin Stanfill
 
 Want to build a house or flying, burning cows? See this video preview about what you'll learn to do in Minecraft! 
 
-[Minecraft Plugins](http://imagery.pragprog.com/products/364/ahmine_xlargecover.jpg?1386097917)
+![Minecraft Plugins](http://imagery.pragprog.com/products/364/ahmine_xlargecover.jpg?1386097917)
 
 ### Requirements
 
