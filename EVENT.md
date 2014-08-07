@@ -30,11 +30,11 @@ Like learning from videos you can stop and rewind? Try one of these:
 * [Learn to Program Android apps with App Inventor](http://www.pluralsight.com/training/Courses/TableOfContents/android-beginner-app-inventor) (2.5h)
 * [Learn to Program PC and X-Box Games with Kodu Kingdom Defense](http://www.pluralsight.com/training/Courses/TableOfContents/learn-to-program-kodu-kingdom-defense) (3h)
 
-## Other text-based tutorials:
+## Written tutorials
 
 Not into video training? We've got a huge list of other ways to get started on our [Students Getting Started and Online Learning Guide](Students_Getting_Started.md).
 
-## Free courseware from Teaching Kids Programming
+## Free interactive courseware from Teaching Kids Programming
 
 Want to get even more in-depth? You can download the courseware and training from [Teaching Kids Programming](http://teachingkidsprogramming.org/). It's really impressive and fun!
 
