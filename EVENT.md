@@ -10,7 +10,7 @@ Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Even
 
 # This Event
 
-This session is broken into two halves, where we'll support both beginners and returning students working our ongoing series tracks!
+We are founded on the [CoderDojo.com principles](Promise.md). Our events are broken into two halves, in order to support beginners as well as returning students working our ongoing series tracks!
 
 # Schedule Summary
 
