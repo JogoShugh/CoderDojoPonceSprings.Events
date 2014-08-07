@@ -48,7 +48,7 @@ Not into video training? We've got a huge list of other ways to get started on o
 
 Want to get even more in-depth? You can download the courseware and training from [Teaching Kids Programming](http://teachingkidsprogramming.org/). It's really impressive and fun!
 
-# 2:45 PM - 4:15 PM: For Series Track Students:
+# 2:45 PM - 4:15 PM: For Series Track Students
 
 We'll have new installments of two popular mentor-led series during this event.
 
