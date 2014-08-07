@@ -5,8 +5,11 @@ This session is broken into two halves, where we'll support both beginners and r
 # Quick Summary
 
 1:00 - 2:30 PM: For beginning students who have started learning already at home with one of the **free courses or tutorials linked below.**
-1:30 - 2:30 PM: For students enrolled in Learn to Program with Minecraft Plugins who want to **review Chapters 1 -3** before the 2:45 session
+
+1:30 - 2:30 PM: For students enrolled in Learn to Program with Minecraft Plugins who want to **review Chapters 1 -3** before the  2:45 session
+
 2:45 - 4:15 PM: Part 3 of Learn to Program with Minecraft Plugins -- Chapters 4 - 6
+
 2:45 - 4:15 PM: Part 3 of JavaScript and HTML5 Quintus Game Development -- Adding a New Game Level to Towerman
 
 # 1:00 PM - 2:30 PM: For Beginners (or anyone wanting to try new stuff!)
