@@ -40,7 +40,7 @@ Want to get even more in-depth? You can download the courseware and training fro
 
 # 2:45 PM - 4:15 PM: For Series Track Students:
 
-We'll have new installments of two popular mentor-led series during this event, **Learn to Program with Minecraft Plugins, Part 3**, and **JavaScript and HTML5 Quintus Game Development, Part 3**. 
+We'll have new installments of two popular mentor-led series during this event, [Learn to Program with Minecraft Plugins]((Workshops/MinecraftPlugins/README.md), Part 3**, and [HTML5 Game Development with JavaScript Quintus](Workshops/HTML5GamesQuintus/README.md), Part 3**. 
 
 All students are welcome during this part even if they have their own projects that they'd rather work on.  Mentors will take time to answer questions and work with all students.
 
