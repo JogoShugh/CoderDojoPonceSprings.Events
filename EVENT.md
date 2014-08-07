@@ -21,15 +21,21 @@ We'll help you keep going from beginner to expert!
 
 ## Video courses
 
-* Basic HTML for Kids (1 hour video course)
-* Teaching kids to program (1h)
-* Learn to program with Scratch (5h)
-* Learn to Program Android apps with App Inventor (2.5h)
-* Learn to Program PC and X-Box Games with Kodu Kingdom Defense (3h)
+Like learning from videos you can stop and rewind? Try one of these:
+
+* [Basic HTML for Kids](http://pluralsight.com/training/courses/TableOfContents?courseName=teaching-kids-basic-html) (1 hour video course)
+* [Learn to program with C# and Turtles](http://www.pluralsight.com/training/Courses/TableOfContents/teaching-kids-programming) (1h)
+* [Learn to program with Scratch](http://www.pluralsight.com/training/Courses/TableOfContents/learning-programming-scratch) (5h)
+* [Learn to Program Android apps with App Inventor](http://www.pluralsight.com/training/Courses/TableOfContents/android-beginner-app-inventor) (2.5h)
+* [Learn to Program PC and X-Box Games with Kodu Kingdom Defense](http://www.pluralsight.com/training/Courses/TableOfContents/learn-to-program-kodu-kingdom-defense) (3h)
 
 ## Other text-based tutorials:
 
 Not into video training? We've got a huge list of other ways to get started on our [Students Getting Started and Online Learning Guide](Students_Getting_Started.md).
+
+## Free courseware from Teaching Kids Programming
+
+Want to get even more in-depth? You can download the courseware and training from [Teaching Kids Programming](http://teachingkidsprogramming.org/). It's really impressive and fun!
 
 # 2:45 PM - 4:15 PM: For Series Track Students:
 
