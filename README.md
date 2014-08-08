@@ -86,7 +86,7 @@ We'll have new installments of two popular mentor-led series during this event.
 **Important:** Click the name of the series for full requirements and details:
 
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md), Part 3 -- led by Erin Stanfill
-* [HTML5 Game Development with JavaScript Quintus](Workshops/HTML5GamesQuintus/README.md), Part 3 -- led by Josh Gough
+* [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md), Part 3 -- led by Josh Gough
 
 All students are welcome during this part even if they have their own projects that they'd rather work on.  Mentors will take time to answer questions and work with all students.
 
