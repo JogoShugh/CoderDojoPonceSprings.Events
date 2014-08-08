@@ -66,7 +66,9 @@ We'll help you keep going from beginner to expert!
 Like learning from videos you can stop and rewind? Try one of these:
 
 * [Basic HTML for Kids](http://pluralsight.com/training/courses/TableOfContents?courseName=teaching-kids-basic-html) (1 hour video course)
+
 `Every web programmer at some point will need to know the basics of HTML. This course covers the basics of the HTML Language including tags and their attributes.`
+
 * [Learn to program with C# and Turtles](http://www.pluralsight.com/training/Courses/TableOfContents/teaching-kids-programming) (1h)
 * [Learn to program with Scratch](http://www.pluralsight.com/training/Courses/TableOfContents/learning-programming-scratch) (5h)
 * [Learn to Program Android apps with App Inventor](http://www.pluralsight.com/training/Courses/TableOfContents/android-beginner-app-inventor) (2.5h)
