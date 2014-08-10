@@ -1,5 +1,3 @@
-![CoderDojo Ponce Springs](http://photos4.meetupstatic.com/photos/event/2/1/2/c/global_234188492.jpeg)
-
 # CoderDojo Ponce Springs Event: Sat Aug 16th, 1 to 4:15 PM
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
