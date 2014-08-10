@@ -1,5 +1,7 @@
 # CoderDojo Ponce Springs Event: Sat Aug 16th, 1 to 4:15 PM
 
+![CoderDojo Ponce Springs](http://i.imgur.com/rNSj0ko.png)
+
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
@@ -10,6 +12,9 @@ Our current series tracks:
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)
 
 **Full details below...**
+
+[Click to see our 2013 year in review video]()!
+![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)
 
 # How do I sign up?!?
 
@@ -33,13 +38,11 @@ If you live in Henry county, check out our offspring [CoderDojo Henry](https://t
 
 **Remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux.
 
-**We recommend you do one of the beginner videos linked below together with your students**. However, let the student control the keyboard as much as possible. 
-
-For inspiration, check out [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
+**We recommend you do one of the beginner videos linked below together with your students**. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
 
 ## Volunteers, Mentors
 
-If you're volunteering for the first time, we need you to [complete the application and background check authorization by going to this page](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/).
+First time voluneeters must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you.
 
 ## Students
 
