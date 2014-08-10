@@ -2,9 +2,14 @@
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
-We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks.
+We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
-Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
+Our current series tracks:
+
+* [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md)
+* [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)
+
+**Full details below...**
 
 # How do I sign up?!?
 
@@ -101,3 +106,7 @@ Learn more about the global CoderDojo movemnent at [CoderDojo.com](http://coderd
 If you have any issues or questions, please email coderdojo@versionone.com
 
 Thanks!
+
+## Thank you and sponsorship
+
+Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
