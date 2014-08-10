@@ -1,6 +1,8 @@
 # CoderDojo Ponce Springs Event: Sat Aug 16th, 1 to 4:15 PM
 
-![CoderDojo Ponce Springs](http://i.imgur.com/rNSj0ko.png)
+<center>
+<img src="http://i.imgur.com/rNSj0ko.png" />
+</center>
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
@@ -13,8 +15,9 @@ Our current series tracks:
 
 **Full details below...**
 
-[Click to see our 2013 year in review video]()!
-![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)
+[Click to see our 2013 year in review video](https://www.youtube.com/watch?v=gNtJI0TEMsE)
+
+[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
 
 # How do I sign up?!?
 
