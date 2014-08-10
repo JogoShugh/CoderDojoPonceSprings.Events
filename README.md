@@ -1,3 +1,5 @@
+![CoderDojo Ponce Springs](http://photos4.meetupstatic.com/photos/event/2/1/2/c/global_234188492.jpeg)
+
 # CoderDojo Ponce Springs Event: Sat Aug 16th, 1 to 4:15 PM
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
@@ -14,6 +16,18 @@ Our current series tracks:
 # How do I sign up?!?
 
 To help ensure privacy for our members, **parents** please sign up for your students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count.
+
+You can follow us on Twitter [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). 
+
+## Our nearby offspring dojos!
+
+Other dojos and similar groups in Atlanta and the surrounding area have sprung by dedicated volunteers taking on the challenge.
+
+* [CoderDojo Henry](https://twitter.com/CoderDojoHenry)
+* [uCode @ University of West Georgia](http://www.westga.edu/ucode/)
+* [Mental Fitness APS](http://www.mentalfitnessatl.org) (in partnership with CoderDojo Ponce Springs)
+
+If you live in Henry county, check out our offspring [CoderDojo Henry](https://twitter.com/CoderDojoHenry). In West Georgia, 
 
 # What do I do know before I attend?
 
