@@ -1,8 +1,8 @@
 # CoderDojo Ponce Springs Event: Sat Aug 16th, 1 to 4:15 PM
 
-Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code, apps, games, sites, and more , supported by mentors and parents!_** We hope you have a great time.
+Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
-We are founded on the [CoderDojo.com principles](Promise.md). Our events are broken into two halves, in order to support beginners as well as returning students working our ongoing series tracks! 
+We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks! 
 
 Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
 
