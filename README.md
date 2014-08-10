@@ -3,7 +3,15 @@
 Thanks for attending CoderDojo Ponce Springs -- **_a free and fun place where Atlanta's kids learn how to code, 
 supported by mentors and parents!_** We hope you have a great time.
 
-# Parents
+We are founded on the [CoderDojo.com principles](Promise.md). Our events are broken into two halves, in order to support beginners as well as returning students working our ongoing series tracks!
+
+# How do I sign up?!?
+
+To help ensure privacy for our members, **parents** please sign up for your students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count.
+
+# What do I do know before I attend?
+
+## Parents
 
 **Remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux.
 
@@ -11,21 +19,15 @@ supported by mentors and parents!_** We hope you have a great time.
 
 If you're volunteering for the first time, we need you to [complete the application and background check authorization by going to this page](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/).
 
-## Parking Tips
-
-Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md). 
-
 ## Students
 
-Students, remember that the dojo is partly a classroom, but mostly a **playground**. Ultimately, you get to decide 
-what programming languages, tools, and ideas you want to explore, learn, and play with. 
+Students, remember that the dojo is a partly a ["flipped classroom"](http://en.wikipedia.org/wiki/Flip_teaching), but mostly a **playground**. 
 
-And, all of us: mentors, other students, and parents are here to help you learn and have fun.
+This means you should start **coding at home before you attend**, using the resources linked below. Come to the event having tried something already, and we'll help you go further and have fun with what you're learning!
 
 ### What interests you most?
 
-We want you to feel free to pursue what is interesting to you. You can always ask a mentor about things that 
-interest you, or any other questions you have.
+We want you to feel free to pursue whatever programming languages, tools, and ideas are most interesting to **you**. You can always ask a mentor about things that you want to get into or to demo things you've tried at home.
 
 ### What's your current experience with coding?
 
@@ -39,9 +41,10 @@ object-oriented programming, events, and web programming
 * **Advanced level**: You have already been programming for a while and have your own project that you'd like to 
 discuss with other students or mentors that can help you go further.
 
-# This Event
+## Parking Tips
 
-We are founded on the [CoderDojo.com principles](Promise.md). Our events are broken into two halves, in order to support beginners as well as returning students working our ongoing series tracks!
+Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md). 
+
 
 # Schedule Summary
 
