@@ -1,23 +1,19 @@
 # CoderDojo Ponce Springs Event: Sat Aug 16th, 1 to 4:15 PM
 
-<center>
-<img src="http://i.imgur.com/rNSj0ko.png" />
-</center>
-
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
-Our current series tracks:
+[Click to see our 2013 year in review video](https://www.youtube.com/watch?v=gNtJI0TEMsE)
+
+[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
+
+## Our current series tracks:
 
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md)
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)
 
 **Full details below...**
-
-[Click to see our 2013 year in review video](https://www.youtube.com/watch?v=gNtJI0TEMsE)
-
-[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
 
 # How do I sign up?!?
 
@@ -125,10 +121,12 @@ All students are welcome during this part even if they have their own projects t
 
 Learn more about the global CoderDojo movemnent at [CoderDojo.com](http://coderdojo.com/)
 
-If you have any issues or questions, please email coderdojo@versionone.com
+If you have any issues or questions, please email **coderdojo AT versionone DOT com**
 
 Thanks!
 
 ## Thank you and sponsorship
 
 Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
+
+![CoderDojo Ponce Springs](http://i.imgur.com/rNSj0ko.png)
