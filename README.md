@@ -29,11 +29,15 @@ Other dojos and similar groups in Atlanta and the surrounding area have sprung b
 
 If you live in Henry county, check out our offspring [CoderDojo Henry](https://twitter.com/CoderDojoHenry). In West Georgia, 
 
-# What do I do know before I attend?
+# What should I and my students do before we attend?
 
 ## Parents
 
 **Remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux.
+
+**We recommend you do one of the beginner videos linked below together with your students**. However, let the student control the keyboard as much as possible. 
+
+For inspiration, check out [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
 
 ## Volunteers, Mentors
 
