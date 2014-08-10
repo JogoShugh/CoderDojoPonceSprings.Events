@@ -4,20 +4,20 @@ Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's 
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
-## Our current series tracks:
+## Our current series tracks
 
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md)
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)
 
-## Video preview
+## See what it's all about
 
-Want to see what it's all about? [View our 2013 year-in-review video](https://www.youtube.com/watch?v=gNtJI0TEMsE)
+[View our 2013 year-in-review video to see what a dojo is like](https://www.youtube.com/watch?v=gNtJI0TEMsE).
 
 [![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
 
 # How do I sign up?!?
 
-To help ensure privacy for our members, **parents** please sign up for your students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count.
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count.
 
 You can follow us on Twitter [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). 
 
