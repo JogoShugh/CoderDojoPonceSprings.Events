@@ -4,16 +4,16 @@ Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's 
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
-[Click to see our 2013 year in review video](https://www.youtube.com/watch?v=gNtJI0TEMsE)
-
-[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
-
 ## Our current series tracks:
 
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md)
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)
 
-**Full details below...**
+## Video preview
+
+Want to see what it's all about? [View our 2013 year-in-review video](https://www.youtube.com/watch?v=gNtJI0TEMsE)
+
+[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
 
 # How do I sign up?!?
 
