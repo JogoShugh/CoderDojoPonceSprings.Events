@@ -21,17 +21,15 @@ To help ensure privacy for our members, **parents** please sign up for your stud
 
 You can follow us on Twitter [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). 
 
-## Our nearby offspring dojos!
+## Downtown Atlanta too far for you? See our offspring dojos!
 
-Other dojos and similar groups in Atlanta and the surrounding area have sprung by dedicated volunteers taking on the challenge.
+Other dojos and similar efforts in Atlanta and the surrounding area have sprung to life by dedicated volunteers taking on the challenge:
 
-* [CoderDojo Henry](https://twitter.com/CoderDojoHenry)
+* [CoderDojo Henry](https://www.CoderDojoHenry.com)
 * [uCode @ University of West Georgia](http://www.westga.edu/ucode/)
 * [Mental Fitness APS](http://www.mentalfitnessatl.org) (in partnership with CoderDojo Ponce Springs)
 
-If you live in Henry county, check out our offspring [CoderDojo Henry](https://twitter.com/CoderDojoHenry). In West Georgia, 
-
-# What should I and my students do before we attend?
+# What should I and my kids / students do before we attend?
 
 ## Parents
 
@@ -47,7 +45,7 @@ First time voluneeters must [complete this application and background check auth
 
 Students, remember that the dojo is a partly a ["flipped classroom"](http://en.wikipedia.org/wiki/Flip_teaching), but mostly a **playground**. 
 
-This means you should start **coding at home before you attend**, using the resources linked below. Come to the event having tried something already, and we'll help you go further and have fun with what you're learning!
+This means you should start **coding at home before you attend events**, starting with the resources linked below. Come to the event having tried something already. We'll help you go further and have fun with what you're learning!
 
 ### What interests you most?
 
@@ -65,10 +63,9 @@ object-oriented programming, events, and web programming
 * **Advanced level**: You have already been programming for a while and have your own project that you'd like to 
 discuss with other students or mentors that can help you go further.
 
-## Parking Tips
+## Directions and Parking Tips
 
 Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md). 
-
 
 # Schedule Summary
 
@@ -119,13 +116,9 @@ All students are welcome during this part even if they have their own projects t
 
 # See You There!
 
-Learn more about the global CoderDojo movemnent at [CoderDojo.com](http://coderdojo.com/)
-
 If you have any issues or questions, please email **coderdojo AT versionone DOT com**
 
-Thanks!
-
-## Thank you and sponsorship
+# Thank you and sponsorship
 
 Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
 
