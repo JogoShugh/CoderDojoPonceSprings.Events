@@ -10,9 +10,9 @@ Want to learn how to create Super Mario style "platformer" games that work in yo
 
 This sessions is for students who have been learning JavaScript as a starting block for building HTML5 Quintus games. During this session we will start building the game [Tower Man from this free tutorial](http://html5gametutorial.com/tutorial/game1-tower-man/). To be prepared for this session, make sure you've done one of the following:
 
-* Read and understand the chapters 1 - 5 in [Learning JavaScript](http://gitbookio.github.io/javascript/)
+* Read and understand the chapters 1 - 5 in the free book [Learning JavaScript](http://gitbookio.github.io/javascript/).
 
-Or, read and understand the following pages from Mozilla's JavaScript guid:
+Or, read and understand the following pages from Mozilla's JavaScript guide:
 
 * [JavaScript Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/JavaScript_Overview)
 * [Values, Variables, and Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Values,_variables,_and_literals)
@@ -20,7 +20,7 @@ Or, read and understand the following pages from Mozilla's JavaScript guid:
 * [Statements (Control flow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Statements)
 
 ### Bonus
-* [Bonus: Functions](http://gitbookio.github.io/javascript/functions/README.html) or (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) or  
+* Read about Functions at [Learning JavaScript: Functions](http://gitbookio.github.io/javascript/functions/README.html) or [Mozilla Guide: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 ### Super Bonus
 
