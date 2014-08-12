@@ -23,7 +23,7 @@ We need a mentor to help students learn the following:
 
 * [Making Android Apps with App Inventor](http://appinventor.mit.edu/explore/) -- It's as easy as Scratch, but for Android apps!
 * [Explore Electronics with Arduino](http://exploringarduino.com/) --  The microcontroller platform that helps you learn about electrical engineering, programming, and human-computer interaction
-* [Sphero: The App-Controlled, Programmable Robot Ball That Does it All](http://www.gosphero.com/). Sphero is an amazing robot orb that can move, jump, and even swim. We have 4 Spheros, you won't need to buy one unless you want to donate another! [See this video](https://docs.google.com/file/d/0B_MBVZScuhukM0pBTGZzbnU3Vlk/edit?pli=1) of kids from [Mental Fitness ATL](http://www.mentalfitnessatl.org/) going nuts with Sphero!
+* [Sphero: The App-Controlled, Programmable Robot Ball That Does it All](http://www.gosphero.com/) -- Sphero is an amazing robot orb that can move, jump, and even swim. We have 4 Spheros, you won't need to buy one unless you want to donate another! [See this video](https://docs.google.com/file/d/0B_MBVZScuhukM0pBTGZzbnU3Vlk/edit?pli=1) of kids from [Mental Fitness ATL](http://www.mentalfitnessatl.org/) going nuts with Sphero!
 
 # How do I sign up?!?
 
