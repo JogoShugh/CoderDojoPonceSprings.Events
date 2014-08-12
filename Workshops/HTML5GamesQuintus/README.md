@@ -6,7 +6,7 @@ Led by [Josh Gough](http://www.github.com/JogoShugh)
 
 Want to learn how to create Super Mario style "platformer" games that work in your web browser, phone, and tablet? Check out theHTML5 Quintus Game Framework.
 
-## Requirements
+## Homework / Requirements
 
 This sessions is for students who have been learning JavaScript as a starting block for building HTML5 Quintus games. During this session we will start building the game [Tower Man from this free tutorial](http://html5gametutorial.com/tutorial/game1-tower-man/). To be prepared for this session, make sure you've done one of the following:
 
