@@ -4,6 +4,19 @@ Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's 
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
+## Event Summary
+
+1:00 - 2:30 PM: For beginners. Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
+
+1:30 - 2:30 PM: For students enrolled in [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) who want to **review Chapters 1 -3** before the  2:45 session
+
+2:45 - 4:15 PM: Part 3 of [Learn to Program with Minecraft Plugins]
+(Workshops/MinecraftPlugins/README.md) -- Chapters 4 - 6
+
+2:45 - 4:15 PM: Part 3 of [HTML5 Game Development with JavaScript and Quintus](https://github.com/CoderDojoPonceSprings/Events/blob/master/Workshops/HTML5GamesQuintus/README.md) -- Adding a New Game Level to Towerman
+
+**Keeping reading for more details...**
+
 ## See what it's all about
 
 [View our 2013 year-in-review video to see what a dojo is like](https://www.youtube.com/watch?v=gNtJI0TEMsE).
@@ -12,14 +25,16 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 ## Our current series tracks
 
+As mentioned above we have two ongoing mentor-led tracks:
+
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) -- Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools.
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md) -- Build games like Pacman and Super Mario Brothers that run on phones, tablets, and your computer.
 
-### We're recruiting mentors for new series tracks!
+## Recruiting mentors for new series tracks
 
-We don't require that mentors build their own materials. There is plenty of material to use already.
+Mentors, we need your help! We don't require that you build their own materials. There is plenty of material to use already.
 
-We need a mentor to help students learn the following:
+We need mentors to help students pursue the following:
 
 * [Making Android Apps with App Inventor](http://appinventor.mit.edu/explore/) -- It's as easy as Scratch, but for Android apps!
 * [Explore Electronics with Arduino](http://exploringarduino.com/) --  The microcontroller platform that helps you learn about electrical engineering, programming, and human-computer interaction
@@ -73,16 +88,7 @@ discuss with other students or mentors that can help you go further.
 
 Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md). 
 
-# Schedule Summary
-
-1:00 - 2:30 PM: For beginners. Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
-
-1:30 - 2:30 PM: For students enrolled in [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) who want to **review Chapters 1 -3** before the  2:45 session
-
-2:45 - 4:15 PM: Part 3 of [Learn to Program with Minecraft Plugins]
-(Workshops/MinecraftPlugins/README.md) -- Chapters 4 - 6
-
-2:45 - 4:15 PM: Part 3 of [HTML5 Game Development with JavaScript and Quintus](https://github.com/CoderDojoPonceSprings/Events/blob/master/Workshops/HTML5GamesQuintus/README.md) -- Adding a New Game Level to Towerman
+# Event Details
 
 # 1:00 PM - 2:30 PM: For Beginners
 
