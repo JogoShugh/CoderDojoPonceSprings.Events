@@ -21,13 +21,7 @@ To help ensure privacy for our members, **parents** please sign up for your kids
 
 You can follow us on Twitter [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). 
 
-## Downtown Atlanta too far for you? See our offspring dojos!
-
-Other dojos and similar efforts in Atlanta and the surrounding area have sprung to life by dedicated volunteers taking on the challenge:
-
-* [CoderDojo Henry](https://www.CoderDojoHenry.com)
-* [uCode @ University of West Georgia](http://www.westga.edu/ucode/)
-* [Mental Fitness APS](http://www.mentalfitnessatl.org) (in partnership with CoderDojo Ponce Springs)
+## Downtown Atlanta too far for you? See the bottom of this page for our offspring dojos!
 
 # What should I and my kids / students do before we attend?
 
@@ -123,3 +117,11 @@ If you have any issues or questions, please email **coderdojo AT versionone DOT 
 Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
 
 ![CoderDojo Ponce Springs](http://i.imgur.com/rNSj0ko.png)
+
+# Nearby offspring dojos
+
+Other dojos and similar efforts in Atlanta and the surrounding area have sprung to life by dedicated volunteers taking on the challenge. See the bottom of this page for details.
+
+* [CoderDojo Henry](https://www.CoderDojoHenry.com)
+* [uCode @ University of West Georgia](http://www.westga.edu/ucode/)
+* [Mental Fitness APS](http://www.mentalfitnessatl.org) (in partnership with CoderDojo Ponce Springs)
