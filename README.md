@@ -6,12 +6,12 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 ## Event Summary
 
-1:00 - 2:30 PM: For beginners. Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
+**1:00 - 2:30 PM: Beginners** Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
 
-1:30 - 2:30 PM: For students enrolled in [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) who want to **review Chapters 1 -3** before the  2:45 session
+1:30 - 2:30 PM: Students enrolled in [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) who want to **review Chapters 1 -3** before the  2:45 session
 
 2:45 - 4:15 PM: Part 3 of [Learn to Program with Minecraft Plugins]
-(Workshops/MinecraftPlugins/README.md) -- Chapters 4 - 6
+(Workshops/MinecraftPlugins/README.md) -- Chapters 4 - 6 in the book
 
 2:45 - 4:15 PM: Part 3 of [HTML5 Game Development with JavaScript and Quintus](https://github.com/CoderDojoPonceSprings/Events/blob/master/Workshops/HTML5GamesQuintus/README.md) -- Adding a New Game Level to Towerman
 
