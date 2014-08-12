@@ -25,6 +25,8 @@ We're [@CoderDojoPonce](https://twitter.com/CoderDojoPonce).
 
 # What should I and my kids / students do before we attend?
 
+There is some homework. Don't worry, it's fun!
+
 ## Parents
 
 **Remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux.
