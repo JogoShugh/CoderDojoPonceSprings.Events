@@ -19,9 +19,9 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!
 
-# Follow us on Twitter for updates and links to coding resources
+# Follow us on Twitter
 
-We're [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). 
+We're [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). Follow us for event updates and links to coding resources!
 
 # What should I and my kids / students do before we attend?
 
