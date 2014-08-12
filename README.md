@@ -6,7 +6,7 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 
 ## Event Summary
 
-**1:00 - 2:30 PM: Beginners** Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
+**1:00 - 2:30 PM: Beginners Session** -- Before you come, please start learning at home with one of the **free courses or tutorials linked below.**
 
 1:30 - 2:30 PM: Students enrolled in [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) who want to **review Chapters 1 -3** before the  2:45 session
 
