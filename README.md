@@ -4,12 +4,18 @@ Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's 
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
+## See what it's all about
+
+[View our 2013 year-in-review video to see what a dojo is like](https://www.youtube.com/watch?v=gNtJI0TEMsE).
+
+[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
+
 ## Our current series tracks
 
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) -- Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools.
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md) -- Build games like Pacman and Super Mario Brothers that run on phones, tablets, and your computer.
 
-## Recruiting mentors!
+### We're recruiting mentors for new series tracks!
 
 We don't require that mentors build their own materials. There is plenty of material to use already.
 
@@ -20,12 +26,6 @@ We need a mentor to help students learn the following:
 * [Sphero: The App-Controlled, Programmable Robot Ball That Does it All](http://www.gosphero.com/). Sphero is an amazing robot orb that can move, jump, and even swim. We have 4 Spheros, you won't need to buy one unless you want to donate another! [See this video](https://docs.google.com/file/d/0B_MBVZScuhukM0pBTGZzbnU3Vlk/edit?pli=1) of kids from [Mental Fitness ATL](http://www.mentalfitnessatl.org/) going nuts with Sphero!
 
 If you're interested in mentoring, please keep reading!
-
-## See what it's all about
-
-[View our 2013 year-in-review video to see what a dojo is like](https://www.youtube.com/watch?v=gNtJI0TEMsE).
-
-[![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
 
 # How do I sign up?!?
 
