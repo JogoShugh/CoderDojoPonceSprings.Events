@@ -39,7 +39,7 @@ We need mentors to help students pursue the following:
 * [Making Android Apps with App Inventor](http://appinventor.mit.edu/explore/) -- It's as easy as Scratch, but for Android apps!
 * [Explore Electronics with Arduino](http://exploringarduino.com/) --  The microcontroller platform that helps you learn about electrical engineering, programming, and human-computer interaction
 * [Sphero: The App-Controlled, Programmable Robot Ball That Does it All](http://www.gosphero.com/) -- Sphero is an amazing robot orb that can move, jump, and even swim. We have 4 Spheros, you won't need to buy one unless you want to donate another! [See this video](https://docs.google.com/file/d/0B_MBVZScuhukM0pBTGZzbnU3Vlk/edit?pli=1) of kids from [Mental Fitness ATL](http://www.mentalfitnessatl.org/) going nuts with Sphero!
-
+* [3D Modeling for Minecraft and Beyond: Using Autodesk's Free 3D Modeling Tools for CoderDojos] -- Autodesk is providing free [3D modeling tools to all CoderDojos](http://coderdojo.com/news/2014/07/15/autodesk-provide-all-dojos-free-3d-modelling-tools)! The tools can even be used to make models to import into Minecraft!
 # How do I sign up?!?
 
 To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
