@@ -31,3 +31,13 @@ If you are advanced,  there are [tons of getting started resources here](http://
 ## Scheduled Sessions
 
 ### August 16, 2014 -- Part 3: Add a Level to Towerman
+
+During this session, you'll learn how to modify Towerman to add a new level after you complete level one.
+
+Here's a screen capture of an example level:
+
+![Towerman Level](https://s3.amazonaws.com/uploads.hipchat.com/12722/130235/7iublw3zkzq8zkj/upload.png)
+
+### -- Part 4: Add Scoring to Towerman
+
+Learn how to add score keeping to Towerman so that you get points for every dot you gobble up.
