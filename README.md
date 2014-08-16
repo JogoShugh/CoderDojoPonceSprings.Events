@@ -30,16 +30,10 @@ As mentioned above we have two ongoing mentor-led tracks:
 * [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) -- Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools.
 * [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md) -- Build games like Pacman and Super Mario Brothers that run on phones, tablets, and your computer.
 
-## Recruiting mentors for new series tracks
+### Recruiting mentors for new series tracks
 
-Mentors, we need your help! We don't require that you build their own materials. There is plenty of material to use already.
+See the end of this doc for more details! We'd love your help!
 
-We need mentors to help students pursue the following:
-
-* [Making Android Apps with App Inventor](http://appinventor.mit.edu/explore/) -- It's as easy as Scratch, but for Android apps!
-* [Explore Electronics with Arduino](http://exploringarduino.com/) --  The microcontroller platform that helps you learn about electrical engineering, programming, and human-computer interaction
-* [Sphero: The App-Controlled, Programmable Robot Ball That Does it All](http://www.gosphero.com/) -- Sphero is an amazing robot orb that can move, jump, and even swim. We have 4 Spheros, you won't need to buy one unless you want to donate another! [See this video](https://docs.google.com/file/d/0B_MBVZScuhukM0pBTGZzbnU3Vlk/edit?pli=1) of kids from [Mental Fitness ATL](http://www.mentalfitnessatl.org/) going nuts with Sphero!
-* [3D Modeling for Minecraft and Beyond: Using Autodesk's Free 3D Modeling Tools for CoderDojos] -- Autodesk is providing free [3D modeling tools to all CoderDojos](http://coderdojo.com/news/2014/07/15/autodesk-provide-all-dojos-free-3d-modelling-tools)! The tools can even be used to make models to import into Minecraft!
 # How do I sign up?!?
 
 To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs August 16th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340752/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
@@ -129,6 +123,17 @@ All students are welcome during this part even if they have their own projects t
 # See You There!
 
 If you have any issues or questions, please email **coderdojo AT versionone DOT com**
+
+## Recruiting mentors for new series tracks
+
+Mentors, we need your help! We don't require that you build their own materials. There is plenty of material to use already.
+
+We need mentors to help students pursue the following:
+
+* [Making Android Apps with App Inventor](http://appinventor.mit.edu/explore/) -- It's as easy as Scratch, but for Android apps!
+* [Explore Electronics with Arduino](http://exploringarduino.com/) --  The microcontroller platform that helps you learn about electrical engineering, programming, and human-computer interaction
+* [Sphero: The App-Controlled, Programmable Robot Ball That Does it All](http://www.gosphero.com/) -- Sphero is an amazing robot orb that can move, jump, and even swim. We have 4 Spheros, you won't need to buy one unless you want to donate another! [See this video](https://docs.google.com/file/d/0B_MBVZScuhukM0pBTGZzbnU3Vlk/edit?pli=1) of kids from [Mental Fitness ATL](http://www.mentalfitnessatl.org/) going nuts with Sphero!
+* 3D Modeling for Minecraft and Beyond: Using Autodesk's Free 3D Modeling Tools for CoderDojos -- Autodesk is providing free [3D modeling tools to all CoderDojos](http://coderdojo.com/news/2014/07/15/autodesk-provide-all-dojos-free-3d-modelling-tools)! The tools can even be used to make models to import into Minecraft!
 
 # Thank you and sponsorship
 
