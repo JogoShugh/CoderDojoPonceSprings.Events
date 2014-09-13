@@ -1,4 +1,4 @@
-Postponed! please do not attend on the 13th. we have to postpone it due to emergency travel. 
+# Postponed! please do not attend on the 13th. we have to postpone it due to emergency travel. 
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
