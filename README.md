@@ -1,4 +1,4 @@
-# CoderDojo Ponce Springs Event: Sat Sep 13, 1:00 to 4:15 PM
+Postponed! please do not attend on the 13th. we have to postpone it due to emergency travel. 
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
