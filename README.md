@@ -1,4 +1,4 @@
-# Postponed! please do not attend on the 13th. we have to postpone it due to emergency travel. 
+# Details for October 18th CoderDojo Ponce Springs!
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
@@ -36,7 +36,7 @@ See the end of this doc for more details! We'd love your help!
 
 # How do I sign up?!?
 
-To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs September 13th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs October 18th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
 # Follow us on Twitter
 
