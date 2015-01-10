@@ -27,19 +27,19 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 
 ### Parents: Homework to do with your kids before coming and what to bring to the event:
 
-**Please remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux. iPads or other tablets are not ideal for our events.
+* **Please remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux. iPads or other tablets are not ideal for our events.
+* **We recommend you do one of the beginner videos linked below in *Event Details* together with your students**. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
 
-**We recommend you do one of the beginner videos linked below in *Event Details* together with your students**. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
-
-#### Where to RSVP
+#### How to RSVP
 
 To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
 ### Mentors and other Volunteers: Backgroud check authorization and expertise questionnaire
 
-First time Voluneeters or aspiring Mentors must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you. This form also lets you tell us about your expertise and interests.
+* First time Voluneeters or aspiring Mentors must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you. This form also lets you tell us about your expertise and interests.
+* **Looking to lead a new track? We'd love the help!** See the section [Mentor recruitment](#mentor-recruitment) below and let us know if you'd like to help!
 
-#### Where to RSVP
+#### How to RSVP
 
 Sign up at the [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
 
