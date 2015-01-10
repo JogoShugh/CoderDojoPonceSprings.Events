@@ -28,7 +28,7 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 ### Parents: Homework to do with your kids before coming and what to bring to the event:
 
 * **Please remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux. iPads or other tablets are not ideal for our events.
-* **We recommend you do one of the beginner videos linked below in *Event Details* together with your students**. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
+* _We recommend you do one of the beginner videos [**linked below in the Learning resources**](#learning-resources) section together with your students_. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
 
 #### How to RSVP
 
