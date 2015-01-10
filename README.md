@@ -1,62 +1,60 @@
-# Details for October 18th CoderDojo Ponce Springs!
+# Details for January 31st CoderDojo Ponce Springs!
 
 Welcome to CoderDojo Ponce Springs -- **_the free and fun place where Atlanta's kids code apps, games, sites, and more -- supported by mentors, parents, and a [global community](http://www.CoderDojo.com)!_**
 
 We follow [CoderDojo principles](Promise.md). Our events have two halves: the first to support beginners, the second for returning students working on our ongoing mentor-led series tracks. 
 
-## Event Summary
+## Event summary
 
-**1:00 - 2:30 PM: Beginners Session** -- Before you come, please start learning at home with one of the **free courses or tutorials** linked below in the **Event Details** section.
+**1:00 - 2:30 PM: Beginners Session** -- Before you come, please start learning at home with one of the **free courses or tutorials** linked below in the **Learning resources** section.
 
-1:30 - 2:30 PM: Students enrolled in [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) who want to **review Chapters 1 -3** before the  2:45 session
+**2:45 - 4:15 PM: Part 4 of [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md)**
 
-2:45 - 4:15 PM: Part 3 of [Learn to Program with Minecraft Plugins]
-(Workshops/MinecraftPlugins/README.md) -- Chapters 4 - 6 in the book
+Covering chapters TBD in the book [Learn to Program with Minecraft Plugins](https://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins)
 
-2:45 - 4:15 PM: Part 3 of [HTML5 Game Development with JavaScript and Quintus](https://github.com/CoderDojoPonceSprings/Events/blob/master/Workshops/HTML5GamesQuintus/README.md) -- Adding a New Game Level to Towerman
+*Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools...*
 
-**Keeping reading for more details...**
+Led by Mentor [Erin Stanfill](https://github.com/tinyels)
 
-## See what it's all about
+**2:45 - 4:15 PM: Part 4 of [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)**
+
+Covering adding new levels and creating and destroying enemies with lasers. Optional materials: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
+
+Led by Mentor [Josh Gough](https://github.com/jogoshugh)
+
+## Quick links and RSVP info for Parents, Mentors and other Volunteers
+
+### All: Directions and parking Tips
+
+Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md)!
+
+### Parents: Homework to do with your kids before coming and what to bring to the event:
+
+**Please remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux. iPads or other tablets are not ideal for our events.
+
+**We recommend you do one of the beginner videos linked below in *Event Details* together with your students**. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
+
+#### Where to RSVP
+
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
+
+### Mentors and other Volunteers: Backgroud check authorization and expertise questionnaire
+
+First time Voluneeters or aspiring Mentors must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you. This form also lets you tell us about your expertise and interests.
+
+#### Where to RSVP
+
+Sign up at the [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
+
+## Sneak preview
+
+Curious what an event looks like?
 
 [View our 2013 year-in-review video to see what a dojo is like](https://www.youtube.com/watch?v=gNtJI0TEMsE).
 
 [![CoderDojo Ponce Springs Year in Review](http://i.imgur.com/g5IcjhJ.png)](https://www.youtube.com/watch?v=gNtJI0TEMsE)
 
-## Our current series tracks
-
-As mentioned above we have two ongoing mentor-led tracks:
-
-* [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md) -- Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools.
-* [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md) -- Build games like Pacman and Super Mario Brothers that run on phones, tablets, and your computer.
-
-### Recruiting mentors for new series tracks
-
-See the end of this doc for more details! We'd love your help!
-
-# How do I sign up?!?
-
-To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs October 18th RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
-
-# Follow us on Twitter
-
-We're [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). Follow us for event updates and links to coding resources!
-
-# What should I and my kids / students do before we attend?
-
-There is some homework. Don't worry, it's fun!
-
-## Parents
-
-**Remember to bring a laptop for your student.** We have some machines that you can borrow during the event, but they are all Linux based, and not everyone is familiar with Linux.
-
-**We recommend you do one of the beginner videos linked below in *Event Details* together with your students**. However, let the student control the keyboard as much as possible. For inspiration, see [Sugata Mitra's Child-Driven Education TED talk](https://www.ted.com/talks/sugata_mitra_the_child_driven_education).
-
-## Volunteers, Mentors
-
-First time voluneeters must [complete this application and background check authorization](http://coderdojoponcesprings.azurewebsites.net/app/index.html#/). Thank you.
-
-## Students
+## Student tips
 
 Students, remember that the dojo is a partly a ["flipped classroom"](http://en.wikipedia.org/wiki/Flip_teaching), but mostly a **playground**. 
 
@@ -78,20 +76,13 @@ object-oriented programming, events, and web programming
 * **Advanced level**: You have already been programming for a while and have your own project that you'd like to 
 discuss with other students or mentors that can help you go further.
 
-## Directions and Parking Tips
+## Learning resources
 
-Definitely see our [parking guide](https://github.com/CoderDojoPonceSprings/Events/blob/master/PARKING.md). 
+If you are a beginner, or you want to begin something new, then the best thing to do is start trying it at home on your own laptop. **Try out any of the following free resources at home**, and then bring your laptop and show us and other students what you're learning. 
 
-# Event Details
-
-# 1:00 PM - 2:30 PM: For Beginners
-
-Looking to get started with coding? The best thing to do is start trying it at home on your own laptop. **Try out any of the following free resources at home**, and then bring your laptop and show us and other students what you're learning. 
 We'll help you keep going from beginner to expert!
 
-*If you decide to do one of these, please let us know in the comments when RSVPing on Meetup.com so that we know what to help you with.*
-
-## Video courses
+### Video courses
 
 Like learning from videos you can stop and rewind? Try one of these:
 
@@ -101,7 +92,7 @@ Like learning from videos you can stop and rewind? Try one of these:
 * [Learn to Program Android apps with App Inventor](http://www.pluralsight.com/training/Courses/TableOfContents/android-beginner-app-inventor) (2.5h)
 * [Learn to Program PC and X-Box Games with Kodu Kingdom Defense](http://www.pluralsight.com/training/Courses/TableOfContents/learn-to-program-kodu-kingdom-defense) (3h)
 
-## Written tutorials
+### Written tutorials
 
 Not into video training? We've got a huge list of other ways to get started on our [Students Getting Started and Online Learning Guide](Students_Getting_Started.md).
 
@@ -109,24 +100,11 @@ Not into video training? We've got a huge list of other ways to get started on o
 
 Want to get even more in-depth? You can download the courseware and training from [Teaching Kids Programming](http://teachingkidsprogramming.org/). It's really impressive and fun!
 
-# 2:45 PM - 4:15 PM: For Series Track Students
-
-We'll have new installments of two popular mentor-led series during this event.
-
-**Important:** Click the name of the series for full requirements and details:
-
-* [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md), Part 3 -- led by Erin Stanfill
-* [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md), Part 3 -- led by Josh Gough
-
-All students are welcome during this part even if they have their own projects that they'd rather work on.  Mentors will take time to answer questions and work with all students.
-
-# See You There!
-
 If you have any issues or questions, please email **coderdojo AT versionone DOT com**
 
-## Recruiting mentors for new series tracks
+## Mentor recruiment
 
-Mentors, we need your help! We don't require that you build their own materials. There is plenty of material to use already.
+As mentioned above we have two ongoing mentor-led tracks, for Minecraft plugin development with Java, and HTML5 game development with Quintus. We are actively recruiting mentors for new series tracks! We don't require that you build their own materials. There is plenty of material to use already!
 
 We need mentors to help students pursue the following:
 
@@ -140,6 +118,10 @@ We need mentors to help students pursue the following:
 Thanks to all our volunteers and our corporate sponsor [VersionOne](http://www.versionone.com)!
 
 ![CoderDojo Ponce Springs](http://i.imgur.com/rNSj0ko.png)
+
+# Follow us on Twitter
+
+We're [@CoderDojoPonce](https://twitter.com/CoderDojoPonce). Follow us for event updates and links to coding resources!
 
 # Nearby offspring dojos
 
