@@ -99,7 +99,7 @@ Want to get even more in-depth? You can download the courseware and training fro
 
 If you have any issues or questions, please email **coderdojo AT versionone DOT com**
 
-## Mentor recruiment
+## Mentor recruitment
 
 As mentioned above we have two ongoing mentor-led tracks, for Minecraft plugin development with Java, and HTML5 game development with Quintus. We are actively recruiting mentors for new series tracks! We don't require that you build their own materials. There is plenty of material to use already!
 
