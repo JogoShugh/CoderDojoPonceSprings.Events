@@ -32,7 +32,7 @@ Be sure to read our [parking guide](https://github.com/CoderDojoPonceSprings/Eve
 
 #### How to RSVP
 
-To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
+To help ensure privacy for our members, **parents** please sign up for your kids / students at [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/cvsqdlytcbpc/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia!**
 
 ### Mentors and other Volunteers: Backgroud check authorization and expertise questionnaire
 
@@ -41,7 +41,7 @@ To help ensure privacy for our members, **parents** please sign up for your kids
 
 #### How to RSVP
 
-Sign up at the [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/172340832/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
+Sign up at the [CoderDojo Ponce Springs January 31st RSVP page](http://www.meetup.com/CoderDojoPonceSprings/events/cvsqdlytcbpc/)! There is no cost to sign up, you just have to join Meetup.com so that we can get a head count. **If downtown Atlanta is too far for you, see the bottom of this page for our offspring dojos in Georgia which might need your help!**
 
 ## Sneak preview
 
