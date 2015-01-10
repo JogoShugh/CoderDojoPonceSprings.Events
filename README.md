@@ -7,22 +7,17 @@ We follow [CoderDojo principles](Promise.md). Our events have two halves: the fi
 ## Event summary
 
 **1:00 - 2:30 PM: Beginners Session** -- Students, before you come, please start learning at home with one of the [_free courses or tutorials linked in the **Learning resources**_](#learning-resources) section below.
+* Description: For beginners, no matter what level you are at, during this session you can ask questions or continue what you started and get tips and help from Mentors and other Students!
 
 **2:45 - 4:15 PM: Part 4 of [Learn to Program with Minecraft Plugins](Workshops/MinecraftPlugins/README.md)**
-
-Covering: Chapters TBD in the book [Learn to Program with Minecraft Plugins](https://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins)
-
-Description: *Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools...*
-
-Led by Mentor [Erin Stanfill](https://github.com/tinyels)
+* Description: *Build creepers, flying cows, custom houses and more with Java and Minecraft's programming tools...*
+* Covering: Chapters TBD in the book [Learn to Program with Minecraft Plugins](https://pragprog.com/book/ahmine/learn-to-program-with-minecraft-plugins)
+* Led by: Mentor [Erin Stanfill](https://github.com/tinyels)
 
 **2:45 - 4:15 PM: Part 4 of [HTML5 Game Development with JavaScript and Quintus](Workshops/HTML5GamesQuintus/README.md)**
-
-Covering: Adding new levels and creating and destroying enemies with lasers. Optional materials: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
-
-Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
-
-Led by Mentor [Josh Gough](https://github.com/jogoshugh)
+* Description: *Learn how to build HTML5 and JavaScript single- and multiple-player mobile games that run on laptops, tablets, phones, and more...*
+* Covering: Adding new levels and creating and destroying enemies with lasers. Optional materials: [Professional HTML5 Mobile Game Development book](http://www.amazon.com/Professional-HTML5-Mobile-Game-Development/dp/1118301323/ref=tmm_pap_title_0)
+* Led by: Mentor [Josh Gough](https://github.com/jogoshugh)
 
 ## Quick links and RSVP info for Parents, Mentors and other Volunteers
 
